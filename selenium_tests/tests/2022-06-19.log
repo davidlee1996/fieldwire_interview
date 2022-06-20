@@ -1,0 +1,1908 @@
+2022-06-19 00:08:46,832: INFO: ====== WebDriver manager ======
+2022-06-19 00:08:47,076: INFO: Current google-chrome version is 102.0.5005
+2022-06-19 00:08:47,077: INFO: Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-19 00:08:47,357: INFO: About to download new driver from https://chromedriver.storage.googleapis.com/102.0.5005.61/chromedriver_mac64.zip
+2022-06-19 00:08:48,185: INFO: Driver has been saved in cache [/Users/davidlee/.wdm/drivers/chromedriver/mac64/102.0.5005.61]
+2022-06-19 00:08:50,562: INFO: Navigating to https://app.fieldwire.com/#!/auth/register
+2022-06-19 00:08:53,420: INFO: https://app.fieldwire.com/#!/auth/register opened
+2022-06-19 00:08:55,426: INFO: Searching for element by xpath //*[@id='firstNameInput']
+2022-06-19 00:08:55,447: INFO: Element by xpath //*[@id='firstNameInput'] found
+2022-06-19 00:08:55,453: INFO: None value changed
+2022-06-19 00:08:55,517: INFO: Searching for element by xpath //*[@id='lastNameInput']
+2022-06-19 00:08:55,527: INFO: Element by xpath //*[@id='lastNameInput'] found
+2022-06-19 00:08:55,533: INFO: None value changed
+2022-06-19 00:08:55,580: INFO: Searching for element by xpath //*[@id='emailInput']
+2022-06-19 00:08:55,588: INFO: Element by xpath //*[@id='emailInput'] found
+2022-06-19 00:08:55,594: INFO: None value changed
+2022-06-19 00:08:55,656: INFO: Searching for element by xpath //*[@id='passwordInput']
+2022-06-19 00:08:55,665: INFO: Element by xpath //*[@id='passwordInput'] found
+2022-06-19 00:08:55,670: INFO: None value changed
+2022-06-19 00:08:55,726: INFO: Searching for element by xpath //*[@id='explicitAgreement']
+2022-06-19 00:08:55,735: INFO: Element by xpath //*[@id='explicitAgreement'] found
+2022-06-19 00:08:55,744: INFO: Clicking on explicit-input ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required
+2022-06-19 00:08:55,788: INFO: explicit-input ng-untouched ng-not-empty ng-dirty ng-valid-parse ng-valid ng-valid-required clicked
+2022-06-19 00:08:55,788: INFO: Searching for element by xpath //*[@id='login']/form/input
+2022-06-19 00:08:55,797: INFO: Element by xpath //*[@id='login']/form/input found
+2022-06-19 00:08:55,805: INFO: Clicking on btn btn-large btn-primary
+2022-06-19 00:08:55,864: INFO: btn btn-large btn-primary clicked
+2022-06-19 00:08:55,864: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 00:08:55,874: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='company']"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 00:08:56,377: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 00:08:56,391: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='company']"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 00:08:56,894: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 00:08:56,900: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='company']"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 00:08:57,405: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 00:08:58,193: INFO: Element by xpath //*[@id='company'] found
+2022-06-19 00:08:58,213: INFO: None value changed
+2022-06-19 00:08:58,263: INFO: Searching for element by xpath //*[@id='companyType']
+2022-06-19 00:08:58,273: INFO: Element by xpath //*[@id='companyType'] found
+2022-06-19 00:08:58,294: INFO: Searching for element by css selector option[value ="OTHER"]
+2022-06-19 00:08:58,303: INFO: Element by css selector option[value ="OTHER"] found
+2022-06-19 00:08:58,317: INFO: Clicking on Other
+2022-06-19 00:08:58,352: INFO: Other clicked
+2022-06-19 00:08:58,352: INFO: Searching for element by xpath //*[@id='companySize']
+2022-06-19 00:08:58,361: INFO: Element by xpath //*[@id='companySize'] found
+2022-06-19 00:08:58,379: INFO: Searching for element by css selector option[value ="size_1_10"]
+2022-06-19 00:08:58,388: INFO: Element by css selector option[value ="size_1_10"] found
+2022-06-19 00:08:58,403: INFO: Clicking on 1 - 10
+2022-06-19 00:08:58,440: INFO: 1 - 10 clicked
+2022-06-19 00:08:58,440: INFO: Searching for element by xpath //*[@id='phone']
+2022-06-19 00:08:58,451: INFO: Element by xpath //*[@id='phone'] found
+2022-06-19 00:08:58,471: INFO: None value changed
+2022-06-19 00:08:58,537: INFO: Searching for element by xpath //*[@id='login']/form/input
+2022-06-19 00:08:58,547: INFO: Element by xpath //*[@id='login']/form/input found
+2022-06-19 00:08:58,554: INFO: Clicking on btn btn-large btn-primary
+2022-06-19 00:08:58,626: INFO: btn btn-large btn-primary clicked
+2022-06-19 00:08:58,628: INFO: Driver quitting
+2022-06-19 00:08:58,755: INFO: Driver quitted
+2022-06-19 00:08:58,755: INFO: *******************************************************
+2022-06-19 00:08:58,756: INFO: **************** TEST SCENARIO END ****************
+2022-06-19 00:08:58,756: INFO: *******************************************************
+2022-06-19 00:15:48,569: INFO: ====== WebDriver manager ======
+2022-06-19 00:15:48,667: INFO: Current google-chrome version is 102.0.5005
+2022-06-19 00:15:48,667: INFO: Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-19 00:15:48,936: INFO: Driver [/Users/davidlee/.wdm/drivers/chromedriver/mac64/102.0.5005.61/chromedriver] found in cache
+2022-06-19 00:15:51,334: INFO: Navigating to https://app.fieldwire.com/#!/auth/register
+2022-06-19 00:15:54,326: INFO: https://app.fieldwire.com/#!/auth/register opened
+2022-06-19 00:15:56,329: INFO: Searching for element by xpath //*[@id='firstNameInput']
+2022-06-19 00:15:56,348: INFO: Element by xpath //*[@id='firstNameInput'] found
+2022-06-19 00:15:56,354: INFO: None value changed
+2022-06-19 00:15:56,427: INFO: Searching for element by xpath //*[@id='lastNameInput']
+2022-06-19 00:15:56,436: INFO: Element by xpath //*[@id='lastNameInput'] found
+2022-06-19 00:15:56,441: INFO: None value changed
+2022-06-19 00:15:56,487: INFO: Searching for element by xpath //*[@id='emailInput']
+2022-06-19 00:15:56,498: INFO: Element by xpath //*[@id='emailInput'] found
+2022-06-19 00:15:56,503: INFO: None value changed
+2022-06-19 00:15:56,579: INFO: Searching for element by xpath //*[@id='passwordInput']
+2022-06-19 00:15:56,590: INFO: Element by xpath //*[@id='passwordInput'] found
+2022-06-19 00:15:56,595: INFO: None value changed
+2022-06-19 00:15:56,650: INFO: Searching for element by xpath //*[@id='explicitAgreement']
+2022-06-19 00:15:56,659: INFO: Element by xpath //*[@id='explicitAgreement'] found
+2022-06-19 00:15:56,669: INFO: Clicking on explicit-input ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required
+2022-06-19 00:15:56,719: INFO: explicit-input ng-untouched ng-not-empty ng-dirty ng-valid-parse ng-valid ng-valid-required clicked
+2022-06-19 00:15:56,719: INFO: Searching for element by xpath //*[@id='login']/form/input
+2022-06-19 00:15:56,728: INFO: Element by xpath //*[@id='login']/form/input found
+2022-06-19 00:15:56,738: INFO: Clicking on btn btn-large btn-primary
+2022-06-19 00:15:56,793: INFO: btn btn-large btn-primary clicked
+2022-06-19 00:15:56,793: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 00:15:56,804: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='company']"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 00:15:57,309: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 00:15:57,327: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='company']"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 00:15:57,832: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 00:15:58,610: INFO: Element by xpath //*[@id='company'] found
+2022-06-19 00:15:58,627: INFO: None value changed
+2022-06-19 00:15:58,683: INFO: Searching for element by xpath //*[@id='companyType']
+2022-06-19 00:15:58,692: INFO: Element by xpath //*[@id='companyType'] found
+2022-06-19 00:15:58,711: INFO: Searching for element by css selector option[value ="OTHER"]
+2022-06-19 00:15:58,721: INFO: Element by css selector option[value ="OTHER"] found
+2022-06-19 00:15:58,737: INFO: Clicking on Other
+2022-06-19 00:15:58,802: INFO: Other clicked
+2022-06-19 00:15:58,802: INFO: Searching for element by xpath //*[@id='companySize']
+2022-06-19 00:15:58,858: INFO: Element by xpath //*[@id='companySize'] found
+2022-06-19 00:15:58,898: INFO: Searching for element by css selector option[value ="size_1_10"]
+2022-06-19 00:15:58,917: INFO: Element by css selector option[value ="size_1_10"] found
+2022-06-19 00:15:58,992: INFO: Clicking on 1 - 10
+2022-06-19 00:15:59,048: INFO: 1 - 10 clicked
+2022-06-19 00:15:59,049: INFO: Searching for element by xpath //*[@id='phone']
+2022-06-19 00:15:59,059: INFO: Element by xpath //*[@id='phone'] found
+2022-06-19 00:15:59,072: INFO: None value changed
+2022-06-19 00:15:59,138: INFO: Searching for element by xpath //*[@id='login']/form/input
+2022-06-19 00:15:59,144: INFO: Element by xpath //*[@id='login']/form/input found
+2022-06-19 00:15:59,158: INFO: Clicking on btn btn-large btn-primary
+2022-06-19 00:15:59,254: INFO: btn btn-large btn-primary clicked
+2022-06-19 00:15:59,257: INFO: Driver quitting
+2022-06-19 00:15:59,410: INFO: Driver quitted
+2022-06-19 00:15:59,410: INFO: *******************************************************
+2022-06-19 00:15:59,410: INFO: **************** TEST SCENARIO END ****************
+2022-06-19 00:15:59,410: INFO: *******************************************************
+2022-06-19 06:58:59,679: INFO: ====== WebDriver manager ======
+2022-06-19 06:58:59,921: INFO: Current google-chrome version is 102.0.5005
+2022-06-19 06:58:59,921: INFO: Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-19 06:59:00,208: INFO: Driver [/Users/davidlee/.wdm/drivers/chromedriver/mac64/102.0.5005.61/chromedriver] found in cache
+2022-06-19 06:59:02,591: INFO: Navigating to https://app.fieldwire.com/#!/auth/sign_in
+2022-06-19 06:59:05,327: INFO: https://app.fieldwire.com/#!/auth/sign_in opened
+2022-06-19 06:59:07,332: INFO: Searching for element by xpath //*[@id='email-input']
+2022-06-19 06:59:07,354: INFO: Element by xpath //*[@id='email-input'] found
+2022-06-19 06:59:07,363: INFO: None value changed
+2022-06-19 06:59:07,514: INFO: Searching for element by xpath //*[@id='auth-sign-in']/div[1]/form/input
+2022-06-19 06:59:07,524: INFO: Element by xpath //*[@id='auth-sign-in']/div[1]/form/input found
+2022-06-19 06:59:07,537: INFO: Clicking on btn btn-large btn-primary
+2022-06-19 06:59:07,596: INFO: btn btn-large btn-primary clicked
+2022-06-19 06:59:07,597: INFO: Searching for element by xpath //*[@id='password-input']
+2022-06-19 06:59:07,607: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='password-input']"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 06:59:08,107: INFO: Searching for element by xpath //*[@id='password-input']
+2022-06-19 06:59:08,115: INFO: Element by xpath //*[@id='password-input'] found
+2022-06-19 06:59:08,134: INFO: None value changed
+2022-06-19 06:59:08,167: INFO: Searching for element by xpath //*[@id='auth-sign-in-with-password']/div[1]/form/input
+2022-06-19 06:59:08,180: INFO: Element by xpath //*[@id='auth-sign-in-with-password']/div[1]/form/input found
+2022-06-19 06:59:08,193: INFO: Clicking on btn btn-large btn-primary
+2022-06-19 06:59:08,242: INFO: btn btn-large btn-primary clicked
+2022-06-19 06:59:08,242: INFO: Searching for element by css selector #auth-sign-in-with-password > div.alert.center.ng-scope.alert-danger
+2022-06-19 06:59:08,257: INFO: Message: no such element: Unable to locate element: {"method":"css selector","selector":"#auth-sign-in-with-password > div.alert.center.ng-scope.alert-danger"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 06:59:08,761: INFO: Searching for element by css selector #auth-sign-in-with-password > div.alert.center.ng-scope.alert-danger
+2022-06-19 06:59:08,771: INFO: Element by css selector #auth-sign-in-with-password > div.alert.center.ng-scope.alert-danger found
+2022-06-19 06:59:08,773: INFO: Driver quitting
+2022-06-19 06:59:08,873: INFO: Driver quitted
+2022-06-19 06:59:08,873: INFO: *******************************************************
+2022-06-19 06:59:08,873: INFO: **************** TEST SCENARIO END ****************
+2022-06-19 06:59:08,874: INFO: *******************************************************
+2022-06-19 07:09:28,520: INFO: ====== WebDriver manager ======
+2022-06-19 07:09:28,613: INFO: Current google-chrome version is 102.0.5005
+2022-06-19 07:09:28,614: INFO: Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-19 07:09:28,898: INFO: Driver [/Users/davidlee/.wdm/drivers/chromedriver/mac64/102.0.5005.61/chromedriver] found in cache
+2022-06-19 07:09:31,099: INFO: *******************************************************
+2022-06-19 07:09:31,100: INFO: **************** TEST SCENARIO START ******************
+2022-06-19 07:09:31,100: INFO: *******************************************************
+2022-06-19 07:09:31,100: INFO: Navigating to https://app.fieldwire.com/#!/auth/sign_in
+2022-06-19 07:09:33,665: INFO: https://app.fieldwire.com/#!/auth/sign_in opened
+2022-06-19 07:09:36,866: INFO: Driver quitting
+2022-06-19 07:09:36,966: INFO: Driver quitted
+2022-06-19 07:09:36,966: INFO: *******************************************************
+2022-06-19 07:09:36,966: INFO: **************** TEST SCENARIO END ****************
+2022-06-19 07:09:36,966: INFO: *******************************************************
+2022-06-19 07:11:34,577: INFO: ====== WebDriver manager ======
+2022-06-19 07:11:34,684: INFO: Current google-chrome version is 102.0.5005
+2022-06-19 07:11:34,685: INFO: Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-19 07:11:34,933: INFO: Driver [/Users/davidlee/.wdm/drivers/chromedriver/mac64/102.0.5005.61/chromedriver] found in cache
+2022-06-19 07:11:37,092: INFO: *******************************************************
+2022-06-19 07:11:37,093: INFO: **************** TEST SCENARIO START ******************
+2022-06-19 07:11:37,093: INFO: *******************************************************
+2022-06-19 07:11:37,093: INFO: Navigating to https://app.fieldwire.com/#!/auth/sign_in
+2022-06-19 07:11:39,889: INFO: https://app.fieldwire.com/#!/auth/sign_in opened
+2022-06-19 07:11:42,899: INFO: Searching for element by xpath //*[@id='email-input']
+2022-06-19 07:11:42,920: INFO: Element by xpath //*[@id='email-input'] found
+2022-06-19 07:11:42,927: INFO: None value changed
+2022-06-19 07:11:43,022: INFO: Searching for element by xpath //*[@id='auth-sign-in']/div[1]/form/input
+2022-06-19 07:11:43,032: INFO: Element by xpath //*[@id='auth-sign-in']/div[1]/form/input found
+2022-06-19 07:11:43,046: INFO: Clicking on btn btn-large btn-primary
+2022-06-19 07:11:43,099: INFO: btn btn-large btn-primary clicked
+2022-06-19 07:11:43,100: INFO: Searching for element by xpath //*[@id='password-input']
+2022-06-19 07:11:43,110: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='password-input']"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 07:11:43,614: INFO: Searching for element by xpath //*[@id='password-input']
+2022-06-19 07:11:43,623: INFO: Element by xpath //*[@id='password-input'] found
+2022-06-19 07:11:43,641: INFO: None value changed
+2022-06-19 07:11:43,673: INFO: Searching for element by xpath //*[@id='auth-sign-in-with-password']/div[1]/form/input
+2022-06-19 07:11:43,682: INFO: Element by xpath //*[@id='auth-sign-in-with-password']/div[1]/form/input found
+2022-06-19 07:11:43,693: INFO: Clicking on btn btn-large btn-primary
+2022-06-19 07:11:43,739: INFO: btn btn-large btn-primary clicked
+2022-06-19 07:11:57,292: INFO: Navigating to https://app.fieldwire.com/#!/index/projects
+2022-06-19 07:11:59,577: INFO: https://app.fieldwire.com/#!/index/projects opened
+2022-06-19 07:12:25,272: INFO: Driver quitting
+2022-06-19 07:12:25,273: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x106fad130>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/3051778e50cd4085582f2de68ed281bd
+2022-06-19 07:12:25,274: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10b3e8af0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/3051778e50cd4085582f2de68ed281bd
+2022-06-19 07:12:25,274: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10b3e8dc0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/3051778e50cd4085582f2de68ed281bd
+2022-06-19 07:12:25,279: INFO: Driver quitted
+2022-06-19 07:12:25,279: INFO: *******************************************************
+2022-06-19 07:12:25,279: INFO: **************** TEST SCENARIO END ****************
+2022-06-19 07:12:25,279: INFO: *******************************************************
+2022-06-19 07:12:27,442: INFO: ====== WebDriver manager ======
+2022-06-19 07:12:27,689: INFO: Current google-chrome version is 102.0.5005
+2022-06-19 07:12:27,690: INFO: Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-19 07:12:27,972: INFO: Driver [/Users/davidlee/.wdm/drivers/chromedriver/mac64/102.0.5005.61/chromedriver] found in cache
+2022-06-19 07:12:30,158: INFO: *******************************************************
+2022-06-19 07:12:30,158: INFO: **************** TEST SCENARIO START ******************
+2022-06-19 07:12:30,159: INFO: *******************************************************
+2022-06-19 07:12:30,159: INFO: Navigating to https://app.fieldwire.com/#!/auth/sign_in
+2022-06-19 07:12:32,761: INFO: https://app.fieldwire.com/#!/auth/sign_in opened
+2022-06-19 07:12:35,771: INFO: Searching for element by xpath //*[@id='email-input']
+2022-06-19 07:12:35,787: INFO: Element by xpath //*[@id='email-input'] found
+2022-06-19 07:12:35,795: INFO: None value changed
+2022-06-19 07:12:35,892: INFO: Searching for element by xpath //*[@id='auth-sign-in']/div[1]/form/input
+2022-06-19 07:12:35,902: INFO: Element by xpath //*[@id='auth-sign-in']/div[1]/form/input found
+2022-06-19 07:12:35,913: INFO: Clicking on btn btn-large btn-primary
+2022-06-19 07:12:35,967: INFO: btn btn-large btn-primary clicked
+2022-06-19 07:12:35,967: INFO: Searching for element by xpath //*[@id='password-input']
+2022-06-19 07:12:35,977: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='password-input']"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 07:12:36,482: INFO: Searching for element by xpath //*[@id='password-input']
+2022-06-19 07:12:36,493: INFO: Element by xpath //*[@id='password-input'] found
+2022-06-19 07:12:36,513: INFO: None value changed
+2022-06-19 07:12:36,544: INFO: Searching for element by xpath //*[@id='auth-sign-in-with-password']/div[1]/form/input
+2022-06-19 07:12:36,554: INFO: Element by xpath //*[@id='auth-sign-in-with-password']/div[1]/form/input found
+2022-06-19 07:12:36,565: INFO: Clicking on btn btn-large btn-primary
+2022-06-19 07:12:36,611: INFO: btn btn-large btn-primary clicked
+2022-06-19 07:15:23,509: INFO: Driver quitting
+2022-06-19 07:15:23,510: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109cdc0a0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/a07f56cdbb2e2c1440ecd92d48c11f58
+2022-06-19 07:15:23,511: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10e0f5bb0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/a07f56cdbb2e2c1440ecd92d48c11f58
+2022-06-19 07:15:23,512: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10e0f59d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/a07f56cdbb2e2c1440ecd92d48c11f58
+2022-06-19 07:15:23,516: INFO: Driver quitted
+2022-06-19 07:15:23,516: INFO: *******************************************************
+2022-06-19 07:15:23,517: INFO: **************** TEST SCENARIO END ****************
+2022-06-19 07:15:23,517: INFO: *******************************************************
+2022-06-19 07:15:25,694: INFO: ====== WebDriver manager ======
+2022-06-19 07:15:25,817: INFO: Current google-chrome version is 102.0.5005
+2022-06-19 07:15:25,819: INFO: Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-19 07:15:26,117: INFO: Driver [/Users/davidlee/.wdm/drivers/chromedriver/mac64/102.0.5005.61/chromedriver] found in cache
+2022-06-19 07:15:28,330: INFO: *******************************************************
+2022-06-19 07:15:28,332: INFO: **************** TEST SCENARIO START ******************
+2022-06-19 07:15:28,332: INFO: *******************************************************
+2022-06-19 07:15:28,332: INFO: Navigating to https://app.fieldwire.com/#!/auth/register
+2022-06-19 07:15:31,384: INFO: https://app.fieldwire.com/#!/auth/register opened
+2022-06-19 07:15:33,389: INFO: Searching for element by xpath //*[@id='firstNameInput']
+2022-06-19 07:15:33,409: INFO: Element by xpath //*[@id='firstNameInput'] found
+2022-06-19 07:15:33,415: INFO: None value changed
+2022-06-19 07:15:33,517: INFO: Searching for element by xpath //*[@id='lastNameInput']
+2022-06-19 07:15:33,527: INFO: Element by xpath //*[@id='lastNameInput'] found
+2022-06-19 07:15:33,535: INFO: None value changed
+2022-06-19 07:15:33,581: INFO: Searching for element by xpath //*[@id='emailInput']
+2022-06-19 07:15:33,591: INFO: Element by xpath //*[@id='emailInput'] found
+2022-06-19 07:15:33,597: INFO: None value changed
+2022-06-19 07:15:33,660: INFO: Searching for element by xpath //*[@id='passwordInput']
+2022-06-19 07:15:33,670: INFO: Element by xpath //*[@id='passwordInput'] found
+2022-06-19 07:15:33,675: INFO: None value changed
+2022-06-19 07:15:33,731: INFO: Searching for element by xpath //*[@id='explicitAgreement']
+2022-06-19 07:15:33,759: INFO: Element by xpath //*[@id='explicitAgreement'] found
+2022-06-19 07:15:33,771: INFO: Clicking on explicit-input ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required
+2022-06-19 07:15:33,857: INFO: explicit-input ng-untouched ng-not-empty ng-dirty ng-valid-parse ng-valid ng-valid-required clicked
+2022-06-19 07:15:33,858: INFO: Searching for element by xpath //*[@id='login']/form/input
+2022-06-19 07:15:33,868: INFO: Element by xpath //*[@id='login']/form/input found
+2022-06-19 07:15:33,877: INFO: Clicking on btn btn-large btn-primary
+2022-06-19 07:15:33,932: INFO: btn btn-large btn-primary clicked
+2022-06-19 07:15:33,933: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 07:15:33,942: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='company']"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 07:15:34,443: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 07:15:34,455: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='company']"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 07:15:34,956: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 07:15:35,762: INFO: Element by xpath //*[@id='company'] found
+2022-06-19 07:15:35,782: INFO: None value changed
+2022-06-19 07:15:35,847: INFO: Searching for element by xpath //*[@id='companyType']
+2022-06-19 07:15:35,894: INFO: Element by xpath //*[@id='companyType'] found
+2022-06-19 07:15:35,918: INFO: Searching for element by css selector option[value ="OTHER"]
+2022-06-19 07:15:35,927: INFO: Element by css selector option[value ="OTHER"] found
+2022-06-19 07:15:35,945: INFO: Clicking on Other
+2022-06-19 07:15:35,999: INFO: Other clicked
+2022-06-19 07:15:35,999: INFO: Searching for element by xpath //*[@id='companySize']
+2022-06-19 07:15:36,010: INFO: Element by xpath //*[@id='companySize'] found
+2022-06-19 07:15:36,035: INFO: Searching for element by css selector option[value ="size_1_10"]
+2022-06-19 07:15:36,045: INFO: Element by css selector option[value ="size_1_10"] found
+2022-06-19 07:15:36,065: INFO: Clicking on 1 - 10
+2022-06-19 07:15:36,101: INFO: 1 - 10 clicked
+2022-06-19 07:15:36,101: INFO: Searching for element by xpath //*[@id='phone']
+2022-06-19 07:15:36,111: INFO: Element by xpath //*[@id='phone'] found
+2022-06-19 07:15:36,125: INFO: None value changed
+2022-06-19 07:15:36,184: INFO: Searching for element by xpath //*[@id='login']/form/input
+2022-06-19 07:15:36,191: INFO: Element by xpath //*[@id='login']/form/input found
+2022-06-19 07:15:36,201: INFO: Clicking on btn btn-large btn-primary
+2022-06-19 07:15:36,266: INFO: btn btn-large btn-primary clicked
+2022-06-19 07:16:12,110: INFO: ====== WebDriver manager ======
+2022-06-19 07:16:12,303: INFO: Current google-chrome version is 102.0.5005
+2022-06-19 07:16:12,304: INFO: Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-19 07:16:12,639: INFO: Driver [/Users/davidlee/.wdm/drivers/chromedriver/mac64/102.0.5005.61/chromedriver] found in cache
+2022-06-19 07:16:14,992: INFO: Navigating to https://app.fieldwire.com/#!/auth/register
+2022-06-19 07:16:17,818: INFO: https://app.fieldwire.com/#!/auth/register opened
+2022-06-19 07:16:19,824: INFO: Searching for element by xpath //*[@id='firstNameInput']
+2022-06-19 07:16:19,841: INFO: Element by xpath //*[@id='firstNameInput'] found
+2022-06-19 07:16:19,848: INFO: None value changed
+2022-06-19 07:16:19,918: INFO: Searching for element by xpath //*[@id='lastNameInput']
+2022-06-19 07:16:19,929: INFO: Element by xpath //*[@id='lastNameInput'] found
+2022-06-19 07:16:19,935: INFO: None value changed
+2022-06-19 07:16:19,980: INFO: Searching for element by xpath //*[@id='emailInput']
+2022-06-19 07:16:19,990: INFO: Element by xpath //*[@id='emailInput'] found
+2022-06-19 07:16:19,996: INFO: None value changed
+2022-06-19 07:16:20,070: INFO: Searching for element by xpath //*[@id='passwordInput']
+2022-06-19 07:16:20,080: INFO: Element by xpath //*[@id='passwordInput'] found
+2022-06-19 07:16:20,086: INFO: None value changed
+2022-06-19 07:16:20,144: INFO: Searching for element by xpath //*[@id='explicitAgreement']
+2022-06-19 07:16:20,156: INFO: Element by xpath //*[@id='explicitAgreement'] found
+2022-06-19 07:16:20,166: INFO: Clicking on explicit-input ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required
+2022-06-19 07:16:20,223: INFO: explicit-input ng-untouched ng-not-empty ng-dirty ng-valid-parse ng-valid ng-valid-required clicked
+2022-06-19 07:16:20,223: INFO: Searching for element by xpath //*[@id='login']/form/input
+2022-06-19 07:16:20,234: INFO: Element by xpath //*[@id='login']/form/input found
+2022-06-19 07:16:20,246: INFO: Clicking on btn btn-large btn-primary
+2022-06-19 07:16:20,305: INFO: btn btn-large btn-primary clicked
+2022-06-19 07:16:20,305: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 07:16:20,315: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='company']"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 07:16:20,819: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 07:16:20,830: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='company']"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 07:16:21,335: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 07:16:22,064: INFO: Element by xpath //*[@id='company'] found
+2022-06-19 07:16:22,084: INFO: None value changed
+2022-06-19 07:16:22,136: INFO: Searching for element by xpath //*[@id='companyType']
+2022-06-19 07:16:22,159: INFO: Element by xpath //*[@id='companyType'] found
+2022-06-19 07:16:22,182: INFO: Searching for element by css selector option[value ="OTHER"]
+2022-06-19 07:16:22,192: INFO: Element by css selector option[value ="OTHER"] found
+2022-06-19 07:16:22,208: INFO: Clicking on Other
+2022-06-19 07:16:22,249: INFO: Other clicked
+2022-06-19 07:16:22,249: INFO: Searching for element by xpath //*[@id='companySize']
+2022-06-19 07:16:22,260: INFO: Element by xpath //*[@id='companySize'] found
+2022-06-19 07:16:22,292: INFO: Searching for element by css selector option[value ="size_1_10"]
+2022-06-19 07:16:22,301: INFO: Element by css selector option[value ="size_1_10"] found
+2022-06-19 07:16:22,320: INFO: Clicking on 1 - 10
+2022-06-19 07:16:22,356: INFO: 1 - 10 clicked
+2022-06-19 07:16:22,356: INFO: Searching for element by xpath //*[@id='phone']
+2022-06-19 07:16:22,365: INFO: Element by xpath //*[@id='phone'] found
+2022-06-19 07:16:22,380: INFO: None value changed
+2022-06-19 07:16:22,437: INFO: Searching for element by xpath //*[@id='login']/form/input
+2022-06-19 07:16:22,443: INFO: Element by xpath //*[@id='login']/form/input found
+2022-06-19 07:16:22,453: INFO: Clicking on btn btn-large btn-primary
+2022-06-19 07:16:22,517: INFO: btn btn-large btn-primary clicked
+2022-06-19 07:16:22,519: INFO: Driver quitting
+2022-06-19 07:16:22,630: INFO: Driver quitted
+2022-06-19 07:16:22,630: INFO: *******************************************************
+2022-06-19 07:16:22,631: INFO: **************** TEST SCENARIO END ****************
+2022-06-19 07:16:22,631: INFO: *******************************************************
+2022-06-19 07:17:20,127: INFO: Driver quitting
+2022-06-19 07:17:20,129: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10ef21100>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/95c124fbbe536f8baabb0779e455a500
+2022-06-19 07:17:20,129: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x113178af0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/95c124fbbe536f8baabb0779e455a500
+2022-06-19 07:17:20,130: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x113178dc0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/95c124fbbe536f8baabb0779e455a500
+2022-06-19 07:17:20,135: INFO: Driver quitted
+2022-06-19 07:17:20,135: INFO: *******************************************************
+2022-06-19 07:17:20,135: INFO: **************** TEST SCENARIO END ****************
+2022-06-19 07:17:20,135: INFO: *******************************************************
+2022-06-19 07:17:22,079: INFO: ====== WebDriver manager ======
+2022-06-19 07:17:22,168: INFO: Current google-chrome version is 102.0.5005
+2022-06-19 07:17:22,168: INFO: Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-19 07:17:22,434: INFO: Driver [/Users/davidlee/.wdm/drivers/chromedriver/mac64/102.0.5005.61/chromedriver] found in cache
+2022-06-19 07:17:24,633: INFO: *******************************************************
+2022-06-19 07:17:24,634: INFO: **************** TEST SCENARIO START ******************
+2022-06-19 07:17:24,634: INFO: *******************************************************
+2022-06-19 07:17:24,635: INFO: Navigating to https://app.fieldwire.com/#!/auth/register
+2022-06-19 07:17:27,553: INFO: https://app.fieldwire.com/#!/auth/register opened
+2022-06-19 07:17:29,556: INFO: Searching for element by xpath //*[@id='firstNameInput']
+2022-06-19 07:17:29,577: INFO: Element by xpath //*[@id='firstNameInput'] found
+2022-06-19 07:17:29,584: INFO: None value changed
+2022-06-19 07:17:29,648: INFO: Searching for element by xpath //*[@id='lastNameInput']
+2022-06-19 07:17:29,658: INFO: Element by xpath //*[@id='lastNameInput'] found
+2022-06-19 07:17:29,664: INFO: None value changed
+2022-06-19 07:17:29,710: INFO: Searching for element by xpath //*[@id='emailInput']
+2022-06-19 07:17:29,721: INFO: Element by xpath //*[@id='emailInput'] found
+2022-06-19 07:17:29,726: INFO: None value changed
+2022-06-19 07:17:29,800: INFO: Searching for element by xpath //*[@id='passwordInput']
+2022-06-19 07:17:29,812: INFO: Element by xpath //*[@id='passwordInput'] found
+2022-06-19 07:17:29,818: INFO: None value changed
+2022-06-19 07:17:29,870: INFO: Searching for element by xpath //*[@id='explicitAgreement']
+2022-06-19 07:17:29,880: INFO: Element by xpath //*[@id='explicitAgreement'] found
+2022-06-19 07:17:29,889: INFO: Clicking on explicit-input ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required
+2022-06-19 07:17:29,939: INFO: explicit-input ng-untouched ng-not-empty ng-dirty ng-valid-parse ng-valid ng-valid-required clicked
+2022-06-19 07:17:29,940: INFO: Searching for element by xpath //*[@id='login']/form/input
+2022-06-19 07:17:29,950: INFO: Element by xpath //*[@id='login']/form/input found
+2022-06-19 07:17:29,959: INFO: Clicking on btn btn-large btn-primary
+2022-06-19 07:17:30,017: INFO: btn btn-large btn-primary clicked
+2022-06-19 07:17:30,018: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 07:17:30,028: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='company']"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 07:17:30,533: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 07:17:30,548: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='company']"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 07:17:31,052: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 07:17:31,787: INFO: Element by xpath //*[@id='company'] found
+2022-06-19 07:17:31,812: INFO: None value changed
+2022-06-19 07:17:31,874: INFO: Searching for element by xpath //*[@id='companyType']
+2022-06-19 07:17:31,887: INFO: Element by xpath //*[@id='companyType'] found
+2022-06-19 07:17:31,922: INFO: Searching for element by css selector option[value ="OTHER"]
+2022-06-19 07:17:31,934: INFO: Element by css selector option[value ="OTHER"] found
+2022-06-19 07:17:31,957: INFO: Clicking on Other
+2022-06-19 07:17:32,008: INFO: Other clicked
+2022-06-19 07:17:32,008: INFO: Searching for element by xpath //*[@id='companySize']
+2022-06-19 07:17:32,020: INFO: Element by xpath //*[@id='companySize'] found
+2022-06-19 07:17:32,043: INFO: Searching for element by css selector option[value ="size_1_10"]
+2022-06-19 07:17:32,052: INFO: Element by css selector option[value ="size_1_10"] found
+2022-06-19 07:17:32,069: INFO: Clicking on 1 - 10
+2022-06-19 07:17:32,105: INFO: 1 - 10 clicked
+2022-06-19 07:17:32,105: INFO: Searching for element by xpath //*[@id='phone']
+2022-06-19 07:17:32,115: INFO: Element by xpath //*[@id='phone'] found
+2022-06-19 07:17:32,129: INFO: None value changed
+2022-06-19 07:17:32,188: INFO: Searching for element by xpath //*[@id='login']/form/input
+2022-06-19 07:17:32,197: INFO: Element by xpath //*[@id='login']/form/input found
+2022-06-19 07:17:32,209: INFO: Clicking on btn btn-large btn-primary
+2022-06-19 07:17:32,276: INFO: btn btn-large btn-primary clicked
+2022-06-19 07:18:03,306: INFO: Driver quitting
+2022-06-19 07:18:03,308: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x108818040>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/20a6a96267593f1f77e81453ff081be5
+2022-06-19 07:18:03,308: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x108a7eb20>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/20a6a96267593f1f77e81453ff081be5
+2022-06-19 07:18:03,309: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x108a7edf0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/20a6a96267593f1f77e81453ff081be5
+2022-06-19 07:18:03,314: INFO: Driver quitted
+2022-06-19 07:18:03,314: INFO: *******************************************************
+2022-06-19 07:18:03,314: INFO: **************** TEST SCENARIO END ****************
+2022-06-19 07:18:03,314: INFO: *******************************************************
+2022-06-19 07:18:05,253: INFO: ====== WebDriver manager ======
+2022-06-19 07:18:05,347: INFO: Current google-chrome version is 102.0.5005
+2022-06-19 07:18:05,348: INFO: Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-19 07:18:05,613: INFO: Driver [/Users/davidlee/.wdm/drivers/chromedriver/mac64/102.0.5005.61/chromedriver] found in cache
+2022-06-19 07:18:07,728: INFO: *******************************************************
+2022-06-19 07:18:07,730: INFO: **************** TEST SCENARIO START ******************
+2022-06-19 07:18:07,730: INFO: *******************************************************
+2022-06-19 07:18:07,731: INFO: Navigating to https://app.fieldwire.com/#!/auth/register
+2022-06-19 07:18:10,678: INFO: https://app.fieldwire.com/#!/auth/register opened
+2022-06-19 07:18:12,681: INFO: Searching for element by xpath //*[@id='firstNameInput']
+2022-06-19 07:18:12,700: INFO: Element by xpath //*[@id='firstNameInput'] found
+2022-06-19 07:18:12,707: INFO: None value changed
+2022-06-19 07:18:12,772: INFO: Searching for element by xpath //*[@id='lastNameInput']
+2022-06-19 07:18:12,782: INFO: Element by xpath //*[@id='lastNameInput'] found
+2022-06-19 07:18:12,789: INFO: None value changed
+2022-06-19 07:18:12,837: INFO: Searching for element by xpath //*[@id='emailInput']
+2022-06-19 07:18:12,853: INFO: Element by xpath //*[@id='emailInput'] found
+2022-06-19 07:18:12,859: INFO: None value changed
+2022-06-19 07:18:12,922: INFO: Searching for element by xpath //*[@id='passwordInput']
+2022-06-19 07:18:12,932: INFO: Element by xpath //*[@id='passwordInput'] found
+2022-06-19 07:18:12,940: INFO: None value changed
+2022-06-19 07:18:12,992: INFO: Searching for element by xpath //*[@id='explicitAgreement']
+2022-06-19 07:18:13,002: INFO: Element by xpath //*[@id='explicitAgreement'] found
+2022-06-19 07:18:13,013: INFO: Clicking on explicit-input ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required
+2022-06-19 07:18:13,063: INFO: explicit-input ng-untouched ng-not-empty ng-dirty ng-valid-parse ng-valid ng-valid-required clicked
+2022-06-19 07:18:13,064: INFO: Searching for element by xpath //*[@id='login']/form/input
+2022-06-19 07:18:13,074: INFO: Element by xpath //*[@id='login']/form/input found
+2022-06-19 07:18:13,083: INFO: Clicking on btn btn-large btn-primary
+2022-06-19 07:18:13,136: INFO: btn btn-large btn-primary clicked
+2022-06-19 07:18:13,137: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 07:18:13,147: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='company']"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 07:18:13,647: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 07:18:13,663: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='company']"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 07:18:14,168: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 07:18:14,779: INFO: Element by xpath //*[@id='company'] found
+2022-06-19 07:18:14,797: INFO: None value changed
+2022-06-19 07:18:14,849: INFO: Searching for element by xpath //*[@id='companyType']
+2022-06-19 07:18:14,877: INFO: Element by xpath //*[@id='companyType'] found
+2022-06-19 07:18:14,904: INFO: Searching for element by css selector option[value ="OTHER"]
+2022-06-19 07:18:14,914: INFO: Element by css selector option[value ="OTHER"] found
+2022-06-19 07:18:14,933: INFO: Clicking on Other
+2022-06-19 07:18:14,972: INFO: Other clicked
+2022-06-19 07:18:14,972: INFO: Searching for element by xpath //*[@id='companySize']
+2022-06-19 07:18:14,993: INFO: Element by xpath //*[@id='companySize'] found
+2022-06-19 07:18:15,011: INFO: Searching for element by css selector option[value ="size_1_10"]
+2022-06-19 07:18:15,026: INFO: Element by css selector option[value ="size_1_10"] found
+2022-06-19 07:18:15,044: INFO: Clicking on 1 - 10
+2022-06-19 07:18:15,080: INFO: 1 - 10 clicked
+2022-06-19 07:18:15,080: INFO: Searching for element by xpath //*[@id='phone']
+2022-06-19 07:18:15,090: INFO: Element by xpath //*[@id='phone'] found
+2022-06-19 07:18:15,104: INFO: None value changed
+2022-06-19 07:18:15,164: INFO: Searching for element by xpath //*[@id='login']/form/input
+2022-06-19 07:18:15,171: INFO: Element by xpath //*[@id='login']/form/input found
+2022-06-19 07:18:15,180: INFO: Clicking on btn btn-large btn-primary
+2022-06-19 07:18:15,245: INFO: btn btn-large btn-primary clicked
+2022-06-19 07:18:34,123: INFO: Driver quitting
+2022-06-19 07:18:34,124: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10cba6100>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/6c2e1efae278dc74575a6d5d629e3138
+2022-06-19 07:18:34,125: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10ce0eaf0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/6c2e1efae278dc74575a6d5d629e3138
+2022-06-19 07:18:34,125: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10ce0edc0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/6c2e1efae278dc74575a6d5d629e3138
+2022-06-19 07:18:34,130: INFO: Driver quitted
+2022-06-19 07:18:34,130: INFO: *******************************************************
+2022-06-19 07:18:34,130: INFO: **************** TEST SCENARIO END ****************
+2022-06-19 07:18:34,130: INFO: *******************************************************
+2022-06-19 07:18:41,791: INFO: ====== WebDriver manager ======
+2022-06-19 07:18:41,883: INFO: Current google-chrome version is 102.0.5005
+2022-06-19 07:18:41,884: INFO: Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-19 07:18:42,164: INFO: Driver [/Users/davidlee/.wdm/drivers/chromedriver/mac64/102.0.5005.61/chromedriver] found in cache
+2022-06-19 07:18:44,341: INFO: *******************************************************
+2022-06-19 07:18:44,341: INFO: **************** TEST SCENARIO START ******************
+2022-06-19 07:18:44,341: INFO: *******************************************************
+2022-06-19 07:18:44,342: INFO: Navigating to https://app.fieldwire.com/#!/auth/register
+2022-06-19 07:18:47,602: INFO: https://app.fieldwire.com/#!/auth/register opened
+2022-06-19 07:18:49,608: INFO: Searching for element by xpath //*[@id='firstNameInput']
+2022-06-19 07:18:49,626: INFO: Element by xpath //*[@id='firstNameInput'] found
+2022-06-19 07:18:49,633: INFO: None value changed
+2022-06-19 07:18:49,698: INFO: Searching for element by xpath //*[@id='lastNameInput']
+2022-06-19 07:18:49,709: INFO: Element by xpath //*[@id='lastNameInput'] found
+2022-06-19 07:18:49,716: INFO: None value changed
+2022-06-19 07:18:49,761: INFO: Searching for element by xpath //*[@id='emailInput']
+2022-06-19 07:18:49,771: INFO: Element by xpath //*[@id='emailInput'] found
+2022-06-19 07:18:49,779: INFO: None value changed
+2022-06-19 07:18:49,853: INFO: Searching for element by xpath //*[@id='passwordInput']
+2022-06-19 07:18:49,864: INFO: Element by xpath //*[@id='passwordInput'] found
+2022-06-19 07:18:49,871: INFO: None value changed
+2022-06-19 07:18:49,970: INFO: Searching for element by xpath //*[@id='explicitAgreement']
+2022-06-19 07:18:49,982: INFO: Element by xpath //*[@id='explicitAgreement'] found
+2022-06-19 07:18:49,993: INFO: Clicking on explicit-input ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required
+2022-06-19 07:18:50,053: INFO: explicit-input ng-untouched ng-not-empty ng-dirty ng-valid-parse ng-valid ng-valid-required clicked
+2022-06-19 07:18:50,053: INFO: Searching for element by xpath //*[@id='login']/form/input
+2022-06-19 07:18:50,064: INFO: Element by xpath //*[@id='login']/form/input found
+2022-06-19 07:18:50,075: INFO: Clicking on btn btn-large btn-primary
+2022-06-19 07:18:50,133: INFO: btn btn-large btn-primary clicked
+2022-06-19 07:18:50,134: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 07:18:50,145: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='company']"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 07:18:50,649: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 07:18:50,661: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='company']"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 07:18:51,165: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 07:18:51,997: INFO: Element by xpath //*[@id='company'] found
+2022-06-19 07:18:52,033: INFO: None value changed
+2022-06-19 07:18:52,095: INFO: Searching for element by xpath //*[@id='companyType']
+2022-06-19 07:18:52,106: INFO: Element by xpath //*[@id='companyType'] found
+2022-06-19 07:18:52,137: INFO: Searching for element by css selector option[value ="OTHER"]
+2022-06-19 07:18:52,147: INFO: Element by css selector option[value ="OTHER"] found
+2022-06-19 07:18:52,166: INFO: Clicking on Other
+2022-06-19 07:18:52,210: INFO: Other clicked
+2022-06-19 07:18:52,210: INFO: Searching for element by xpath //*[@id='companySize']
+2022-06-19 07:18:52,219: INFO: Element by xpath //*[@id='companySize'] found
+2022-06-19 07:18:52,238: INFO: Searching for element by css selector option[value ="size_1_10"]
+2022-06-19 07:18:52,247: INFO: Element by css selector option[value ="size_1_10"] found
+2022-06-19 07:18:52,264: INFO: Clicking on 1 - 10
+2022-06-19 07:18:52,300: INFO: 1 - 10 clicked
+2022-06-19 07:18:52,300: INFO: Searching for element by xpath //*[@id='phone']
+2022-06-19 07:18:52,310: INFO: Element by xpath //*[@id='phone'] found
+2022-06-19 07:18:52,324: INFO: None value changed
+2022-06-19 07:18:52,381: INFO: Searching for element by xpath //*[@id='login']/form/input
+2022-06-19 07:18:52,387: INFO: Element by xpath //*[@id='login']/form/input found
+2022-06-19 07:18:52,397: INFO: Clicking on btn btn-large btn-primary
+2022-06-19 07:18:52,464: INFO: btn btn-large btn-primary clicked
+2022-06-19 07:18:59,521: INFO: Searching for element by class name new-project pointer project-box relative-pos
+2022-06-19 07:18:59,539: INFO: Message: no such element: Unable to locate element: {"method":"css selector","selector":".new-project pointer project-box relative-pos"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 07:19:57,934: INFO: Driver quitting
+2022-06-19 07:19:58,077: INFO: Driver quitted
+2022-06-19 07:19:58,078: INFO: *******************************************************
+2022-06-19 07:19:58,078: INFO: **************** TEST SCENARIO END ****************
+2022-06-19 07:19:58,078: INFO: *******************************************************
+2022-06-19 07:20:37,197: INFO: ====== WebDriver manager ======
+2022-06-19 07:20:37,289: INFO: Current google-chrome version is 102.0.5005
+2022-06-19 07:20:37,290: INFO: Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-19 07:20:37,532: INFO: Driver [/Users/davidlee/.wdm/drivers/chromedriver/mac64/102.0.5005.61/chromedriver] found in cache
+2022-06-19 07:20:39,765: INFO: *******************************************************
+2022-06-19 07:20:39,766: INFO: **************** TEST SCENARIO START ******************
+2022-06-19 07:20:39,766: INFO: *******************************************************
+2022-06-19 07:20:39,767: INFO: Navigating to https://app.fieldwire.com/#!/auth/register
+2022-06-19 07:20:43,286: INFO: https://app.fieldwire.com/#!/auth/register opened
+2022-06-19 07:20:45,293: INFO: Searching for element by xpath //*[@id='firstNameInput']
+2022-06-19 07:20:45,312: INFO: Element by xpath //*[@id='firstNameInput'] found
+2022-06-19 07:20:45,319: INFO: None value changed
+2022-06-19 07:20:45,384: INFO: Searching for element by xpath //*[@id='lastNameInput']
+2022-06-19 07:20:45,394: INFO: Element by xpath //*[@id='lastNameInput'] found
+2022-06-19 07:20:45,400: INFO: None value changed
+2022-06-19 07:20:45,445: INFO: Searching for element by xpath //*[@id='emailInput']
+2022-06-19 07:20:45,456: INFO: Element by xpath //*[@id='emailInput'] found
+2022-06-19 07:20:45,461: INFO: None value changed
+2022-06-19 07:20:45,523: INFO: Searching for element by xpath //*[@id='passwordInput']
+2022-06-19 07:20:45,533: INFO: Element by xpath //*[@id='passwordInput'] found
+2022-06-19 07:20:45,540: INFO: None value changed
+2022-06-19 07:20:45,595: INFO: Searching for element by xpath //*[@id='explicitAgreement']
+2022-06-19 07:20:45,605: INFO: Element by xpath //*[@id='explicitAgreement'] found
+2022-06-19 07:20:45,616: INFO: Clicking on explicit-input ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required
+2022-06-19 07:20:45,689: INFO: explicit-input ng-untouched ng-not-empty ng-dirty ng-valid-parse ng-valid ng-valid-required clicked
+2022-06-19 07:20:45,690: INFO: Searching for element by xpath //*[@id='login']/form/input
+2022-06-19 07:20:45,700: INFO: Element by xpath //*[@id='login']/form/input found
+2022-06-19 07:20:45,710: INFO: Clicking on btn btn-large btn-primary
+2022-06-19 07:20:45,765: INFO: btn btn-large btn-primary clicked
+2022-06-19 07:20:45,765: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 07:20:45,776: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='company']"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 07:20:46,280: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 07:20:46,291: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='company']"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 07:20:46,794: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 07:20:47,673: INFO: Element by xpath //*[@id='company'] found
+2022-06-19 07:20:47,696: INFO: None value changed
+2022-06-19 07:20:47,759: INFO: Searching for element by xpath //*[@id='companyType']
+2022-06-19 07:20:47,770: INFO: Element by xpath //*[@id='companyType'] found
+2022-06-19 07:20:47,818: INFO: Searching for element by css selector option[value ="OTHER"]
+2022-06-19 07:20:47,830: INFO: Element by css selector option[value ="OTHER"] found
+2022-06-19 07:20:47,851: INFO: Clicking on Other
+2022-06-19 07:20:47,897: INFO: Other clicked
+2022-06-19 07:20:47,897: INFO: Searching for element by xpath //*[@id='companySize']
+2022-06-19 07:20:47,908: INFO: Element by xpath //*[@id='companySize'] found
+2022-06-19 07:20:47,927: INFO: Searching for element by css selector option[value ="size_1_10"]
+2022-06-19 07:20:47,938: INFO: Element by css selector option[value ="size_1_10"] found
+2022-06-19 07:20:47,955: INFO: Clicking on 1 - 10
+2022-06-19 07:20:48,005: INFO: 1 - 10 clicked
+2022-06-19 07:20:48,006: INFO: Searching for element by xpath //*[@id='phone']
+2022-06-19 07:20:48,016: INFO: Element by xpath //*[@id='phone'] found
+2022-06-19 07:20:48,033: INFO: None value changed
+2022-06-19 07:20:48,107: INFO: Searching for element by xpath //*[@id='login']/form/input
+2022-06-19 07:20:48,114: INFO: Element by xpath //*[@id='login']/form/input found
+2022-06-19 07:20:48,126: INFO: Clicking on btn btn-large btn-primary
+2022-06-19 07:20:48,198: INFO: btn btn-large btn-primary clicked
+2022-06-19 20:25:16,392: INFO: Driver quitting
+2022-06-19 20:25:16,397: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x104e3a040>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/24bcb23f06270af3daed7502f9a79ff2
+2022-06-19 20:25:16,398: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1092c7e20>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/24bcb23f06270af3daed7502f9a79ff2
+2022-06-19 20:25:16,399: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1092c7970>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/24bcb23f06270af3daed7502f9a79ff2
+2022-06-19 20:25:16,406: INFO: Driver quitted
+2022-06-19 20:25:16,407: INFO: *******************************************************
+2022-06-19 20:25:16,407: INFO: **************** TEST SCENARIO END ****************
+2022-06-19 20:25:16,407: INFO: *******************************************************
+2022-06-19 20:25:18,858: INFO: ====== WebDriver manager ======
+2022-06-19 20:25:18,948: INFO: Current google-chrome version is 102.0.5005
+2022-06-19 20:25:18,948: INFO: Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-19 20:25:19,253: INFO: Driver [/Users/davidlee/.wdm/drivers/chromedriver/mac64/102.0.5005.61/chromedriver] found in cache
+2022-06-19 20:25:21,325: INFO: *******************************************************
+2022-06-19 20:25:21,325: INFO: **************** TEST SCENARIO START ******************
+2022-06-19 20:25:21,326: INFO: *******************************************************
+2022-06-19 20:25:21,327: INFO: Navigating to https://app.fieldwire.com/#!/auth/register
+2022-06-19 20:25:25,131: INFO: https://app.fieldwire.com/#!/auth/register opened
+2022-06-19 20:25:27,134: INFO: Searching for element by xpath //*[@id='firstNameInput']
+2022-06-19 20:25:27,152: INFO: Element by xpath //*[@id='firstNameInput'] found
+2022-06-19 20:25:27,158: INFO: None value changed
+2022-06-19 20:25:27,239: INFO: Searching for element by xpath //*[@id='lastNameInput']
+2022-06-19 20:25:27,249: INFO: Element by xpath //*[@id='lastNameInput'] found
+2022-06-19 20:25:27,255: INFO: None value changed
+2022-06-19 20:25:27,300: INFO: Searching for element by xpath //*[@id='emailInput']
+2022-06-19 20:25:27,310: INFO: Element by xpath //*[@id='emailInput'] found
+2022-06-19 20:25:27,315: INFO: None value changed
+2022-06-19 20:25:27,380: INFO: Searching for element by xpath //*[@id='passwordInput']
+2022-06-19 20:25:27,394: INFO: Element by xpath //*[@id='passwordInput'] found
+2022-06-19 20:25:27,400: INFO: None value changed
+2022-06-19 20:25:27,459: INFO: Searching for element by xpath //*[@id='explicitAgreement']
+2022-06-19 20:25:27,470: INFO: Element by xpath //*[@id='explicitAgreement'] found
+2022-06-19 20:25:27,482: INFO: Clicking on explicit-input ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required
+2022-06-19 20:25:27,528: INFO: explicit-input ng-untouched ng-not-empty ng-dirty ng-valid-parse ng-valid ng-valid-required clicked
+2022-06-19 20:25:27,529: INFO: Searching for element by xpath //*[@id='login']/form/input
+2022-06-19 20:25:27,538: INFO: Element by xpath //*[@id='login']/form/input found
+2022-06-19 20:25:27,548: INFO: Clicking on btn btn-large btn-primary
+2022-06-19 20:25:27,600: INFO: btn btn-large btn-primary clicked
+2022-06-19 20:25:27,600: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 20:25:27,609: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='company']"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:25:28,111: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 20:25:28,122: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='company']"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:25:28,623: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 20:25:29,265: INFO: Element by xpath //*[@id='company'] found
+2022-06-19 20:25:29,287: INFO: None value changed
+2022-06-19 20:25:29,342: INFO: Searching for element by xpath //*[@id='companyType']
+2022-06-19 20:25:29,377: INFO: Element by xpath //*[@id='companyType'] found
+2022-06-19 20:25:29,403: INFO: Searching for element by css selector option[value ="OTHER"]
+2022-06-19 20:25:29,412: INFO: Element by css selector option[value ="OTHER"] found
+2022-06-19 20:25:29,433: INFO: Clicking on Other
+2022-06-19 20:25:29,474: INFO: Other clicked
+2022-06-19 20:25:29,474: INFO: Searching for element by xpath //*[@id='companySize']
+2022-06-19 20:25:29,498: INFO: Element by xpath //*[@id='companySize'] found
+2022-06-19 20:25:29,518: INFO: Searching for element by css selector option[value ="size_1_10"]
+2022-06-19 20:25:29,528: INFO: Element by css selector option[value ="size_1_10"] found
+2022-06-19 20:25:29,546: INFO: Clicking on 1 - 10
+2022-06-19 20:25:29,586: INFO: 1 - 10 clicked
+2022-06-19 20:25:29,587: INFO: Searching for element by xpath //*[@id='phone']
+2022-06-19 20:25:29,597: INFO: Element by xpath //*[@id='phone'] found
+2022-06-19 20:25:29,619: INFO: None value changed
+2022-06-19 20:25:29,695: INFO: Searching for element by xpath //*[@id='login']/form/input
+2022-06-19 20:25:29,704: INFO: Element by xpath //*[@id='login']/form/input found
+2022-06-19 20:25:29,713: INFO: Clicking on btn btn-large btn-primary
+2022-06-19 20:25:29,785: INFO: btn btn-large btn-primary clicked
+2022-06-19 20:25:40,489: INFO: Searching for element by class name new-project pointer project-box relative-pos
+2022-06-19 20:25:40,503: INFO: Message: no such element: Unable to locate element: {"method":"css selector","selector":".new-project pointer project-box relative-pos"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:25:45,241: INFO: 'WebDriver' object has no attribute 'shape'
+2022-06-19 20:25:45,241: INFO: 'WebDriver' object has no attribute '__len__'
+2022-06-19 20:25:45,279: INFO: 'WebDriver' object has no attribute 'shape'
+2022-06-19 20:25:45,280: INFO: 'WebDriver' object has no attribute '__len__'
+2022-06-19 20:29:34,247: INFO: Driver quitting
+2022-06-19 20:29:34,248: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x11063d100>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/e6e1be46869966c89598e44c77f42272
+2022-06-19 20:29:34,248: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x114c307f0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/e6e1be46869966c89598e44c77f42272
+2022-06-19 20:29:34,249: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x114c30d30>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/e6e1be46869966c89598e44c77f42272
+2022-06-19 20:29:34,254: INFO: Driver quitted
+2022-06-19 20:29:34,254: INFO: *******************************************************
+2022-06-19 20:29:34,254: INFO: **************** TEST SCENARIO END ****************
+2022-06-19 20:29:34,254: INFO: *******************************************************
+2022-06-19 20:29:36,022: INFO: ====== WebDriver manager ======
+2022-06-19 20:29:36,112: INFO: Current google-chrome version is 102.0.5005
+2022-06-19 20:29:36,113: INFO: Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-19 20:29:36,258: INFO: Driver [/Users/davidlee/.wdm/drivers/chromedriver/mac64/102.0.5005.61/chromedriver] found in cache
+2022-06-19 20:29:38,450: INFO: *******************************************************
+2022-06-19 20:29:38,451: INFO: **************** TEST SCENARIO START ******************
+2022-06-19 20:29:38,451: INFO: *******************************************************
+2022-06-19 20:29:38,452: INFO: Navigating to https://app.fieldwire.com/#!/auth/register
+2022-06-19 20:29:42,415: INFO: https://app.fieldwire.com/#!/auth/register opened
+2022-06-19 20:29:44,418: INFO: Searching for element by xpath //*[@id='firstNameInput']
+2022-06-19 20:29:44,437: INFO: Element by xpath //*[@id='firstNameInput'] found
+2022-06-19 20:29:44,444: INFO: None value changed
+2022-06-19 20:29:44,508: INFO: Searching for element by xpath //*[@id='lastNameInput']
+2022-06-19 20:29:44,517: INFO: Element by xpath //*[@id='lastNameInput'] found
+2022-06-19 20:29:44,523: INFO: None value changed
+2022-06-19 20:29:44,571: INFO: Searching for element by xpath //*[@id='emailInput']
+2022-06-19 20:29:44,582: INFO: Element by xpath //*[@id='emailInput'] found
+2022-06-19 20:29:44,586: INFO: None value changed
+2022-06-19 20:29:44,648: INFO: Searching for element by xpath //*[@id='passwordInput']
+2022-06-19 20:29:44,659: INFO: Element by xpath //*[@id='passwordInput'] found
+2022-06-19 20:29:44,665: INFO: None value changed
+2022-06-19 20:29:44,716: INFO: Searching for element by xpath //*[@id='explicitAgreement']
+2022-06-19 20:29:44,726: INFO: Element by xpath //*[@id='explicitAgreement'] found
+2022-06-19 20:29:44,735: INFO: Clicking on explicit-input ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required
+2022-06-19 20:29:44,782: INFO: explicit-input ng-untouched ng-not-empty ng-dirty ng-valid-parse ng-valid ng-valid-required clicked
+2022-06-19 20:29:44,782: INFO: Searching for element by xpath //*[@id='login']/form/input
+2022-06-19 20:29:44,792: INFO: Element by xpath //*[@id='login']/form/input found
+2022-06-19 20:29:44,801: INFO: Clicking on btn btn-large btn-primary
+2022-06-19 20:29:44,851: INFO: btn btn-large btn-primary clicked
+2022-06-19 20:29:44,851: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 20:29:44,861: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='company']"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:29:45,362: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 20:29:45,377: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='company']"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:29:45,879: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 20:29:46,446: INFO: Element by xpath //*[@id='company'] found
+2022-06-19 20:29:46,469: INFO: None value changed
+2022-06-19 20:29:46,520: INFO: Searching for element by xpath //*[@id='companyType']
+2022-06-19 20:29:46,549: INFO: Element by xpath //*[@id='companyType'] found
+2022-06-19 20:29:46,580: INFO: Searching for element by css selector option[value ="OTHER"]
+2022-06-19 20:29:46,590: INFO: Element by css selector option[value ="OTHER"] found
+2022-06-19 20:29:46,610: INFO: Clicking on Other
+2022-06-19 20:29:46,646: INFO: Other clicked
+2022-06-19 20:29:46,647: INFO: Searching for element by xpath //*[@id='companySize']
+2022-06-19 20:29:46,664: INFO: Element by xpath //*[@id='companySize'] found
+2022-06-19 20:29:46,684: INFO: Searching for element by css selector option[value ="size_1_10"]
+2022-06-19 20:29:46,697: INFO: Element by css selector option[value ="size_1_10"] found
+2022-06-19 20:29:46,717: INFO: Clicking on 1 - 10
+2022-06-19 20:29:46,755: INFO: 1 - 10 clicked
+2022-06-19 20:29:46,756: INFO: Searching for element by xpath //*[@id='phone']
+2022-06-19 20:29:46,766: INFO: Element by xpath //*[@id='phone'] found
+2022-06-19 20:29:46,785: INFO: None value changed
+2022-06-19 20:29:46,849: INFO: Searching for element by xpath //*[@id='login']/form/input
+2022-06-19 20:29:46,856: INFO: Element by xpath //*[@id='login']/form/input found
+2022-06-19 20:29:46,866: INFO: Clicking on btn btn-large btn-primary
+2022-06-19 20:29:46,928: INFO: btn btn-large btn-primary clicked
+2022-06-19 20:29:51,179: INFO: Searching for element by css selector .new-project.pointer.project-box.relative-pos
+2022-06-19 20:29:51,197: INFO: Element by css selector .new-project.pointer.project-box.relative-pos found
+2022-06-19 20:29:51,207: INFO: Clicking on new-project pointer project-box relative-pos
+2022-06-19 20:29:51,270: INFO: new-project pointer project-box relative-pos clicked
+2022-06-19 20:30:02,609: INFO: Driver quitting
+2022-06-19 20:30:02,730: INFO: Driver quitted
+2022-06-19 20:30:02,731: INFO: *******************************************************
+2022-06-19 20:30:02,731: INFO: **************** TEST SCENARIO END ****************
+2022-06-19 20:30:02,732: INFO: *******************************************************
+2022-06-19 20:30:48,006: INFO: ====== WebDriver manager ======
+2022-06-19 20:30:48,183: INFO: Current google-chrome version is 102.0.5005
+2022-06-19 20:30:48,184: INFO: Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-19 20:30:48,337: INFO: Driver [/Users/davidlee/.wdm/drivers/chromedriver/mac64/102.0.5005.61/chromedriver] found in cache
+2022-06-19 20:30:50,576: INFO: *******************************************************
+2022-06-19 20:30:50,577: INFO: **************** TEST SCENARIO START ******************
+2022-06-19 20:30:50,577: INFO: *******************************************************
+2022-06-19 20:30:50,577: INFO: Navigating to https://app.fieldwire.com/#!/auth/register
+2022-06-19 20:30:54,619: INFO: https://app.fieldwire.com/#!/auth/register opened
+2022-06-19 20:30:56,623: INFO: Searching for element by xpath //*[@id='firstNameInput']
+2022-06-19 20:30:56,640: INFO: Element by xpath //*[@id='firstNameInput'] found
+2022-06-19 20:30:56,647: INFO: None value changed
+2022-06-19 20:30:56,711: INFO: Searching for element by xpath //*[@id='lastNameInput']
+2022-06-19 20:30:56,721: INFO: Element by xpath //*[@id='lastNameInput'] found
+2022-06-19 20:30:56,727: INFO: None value changed
+2022-06-19 20:30:56,773: INFO: Searching for element by xpath //*[@id='emailInput']
+2022-06-19 20:30:56,782: INFO: Element by xpath //*[@id='emailInput'] found
+2022-06-19 20:30:56,790: INFO: None value changed
+2022-06-19 20:30:56,853: INFO: Searching for element by xpath //*[@id='passwordInput']
+2022-06-19 20:30:56,863: INFO: Element by xpath //*[@id='passwordInput'] found
+2022-06-19 20:30:56,868: INFO: None value changed
+2022-06-19 20:30:56,921: INFO: Searching for element by xpath //*[@id='explicitAgreement']
+2022-06-19 20:30:56,931: INFO: Element by xpath //*[@id='explicitAgreement'] found
+2022-06-19 20:30:56,943: INFO: Clicking on explicit-input ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required
+2022-06-19 20:30:56,993: INFO: explicit-input ng-untouched ng-not-empty ng-dirty ng-valid-parse ng-valid ng-valid-required clicked
+2022-06-19 20:30:56,993: INFO: Searching for element by xpath //*[@id='login']/form/input
+2022-06-19 20:30:57,004: INFO: Element by xpath //*[@id='login']/form/input found
+2022-06-19 20:30:57,014: INFO: Clicking on btn btn-large btn-primary
+2022-06-19 20:30:57,071: INFO: btn btn-large btn-primary clicked
+2022-06-19 20:30:57,072: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 20:30:57,081: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='company']"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:30:57,584: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 20:30:57,619: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='company']"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:30:58,123: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 20:30:58,836: INFO: Element by xpath //*[@id='company'] found
+2022-06-19 20:30:58,870: INFO: None value changed
+2022-06-19 20:30:58,922: INFO: Searching for element by xpath //*[@id='companyType']
+2022-06-19 20:30:58,932: INFO: Element by xpath //*[@id='companyType'] found
+2022-06-19 20:30:58,954: INFO: Searching for element by css selector option[value ="OTHER"]
+2022-06-19 20:30:58,966: INFO: Element by css selector option[value ="OTHER"] found
+2022-06-19 20:30:58,982: INFO: Clicking on Other
+2022-06-19 20:30:59,022: INFO: Other clicked
+2022-06-19 20:30:59,022: INFO: Searching for element by xpath //*[@id='companySize']
+2022-06-19 20:30:59,031: INFO: Element by xpath //*[@id='companySize'] found
+2022-06-19 20:30:59,049: INFO: Searching for element by css selector option[value ="size_1_10"]
+2022-06-19 20:30:59,059: INFO: Element by css selector option[value ="size_1_10"] found
+2022-06-19 20:30:59,076: INFO: Clicking on 1 - 10
+2022-06-19 20:30:59,107: INFO: 1 - 10 clicked
+2022-06-19 20:30:59,107: INFO: Searching for element by xpath //*[@id='phone']
+2022-06-19 20:30:59,116: INFO: Element by xpath //*[@id='phone'] found
+2022-06-19 20:30:59,130: INFO: None value changed
+2022-06-19 20:30:59,193: INFO: Searching for element by xpath //*[@id='login']/form/input
+2022-06-19 20:30:59,200: INFO: Element by xpath //*[@id='login']/form/input found
+2022-06-19 20:30:59,214: INFO: Clicking on btn btn-large btn-primary
+2022-06-19 20:30:59,277: INFO: btn btn-large btn-primary clicked
+2022-06-19 20:30:59,281: INFO: Searching for element by css selector .new-project.pointer.project-box.relative-pos
+2022-06-19 20:30:59,291: INFO: Message: no such element: Unable to locate element: {"method":"css selector","selector":".new-project.pointer.project-box.relative-pos"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:30:59,754: INFO: Driver quitting
+2022-06-19 20:30:59,887: INFO: Driver quitted
+2022-06-19 20:30:59,887: INFO: *******************************************************
+2022-06-19 20:30:59,888: INFO: **************** TEST SCENARIO END ****************
+2022-06-19 20:30:59,889: INFO: *******************************************************
+2022-06-19 20:31:18,049: INFO: ====== WebDriver manager ======
+2022-06-19 20:31:18,136: INFO: Current google-chrome version is 102.0.5005
+2022-06-19 20:31:18,137: INFO: Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-19 20:31:18,446: INFO: Driver [/Users/davidlee/.wdm/drivers/chromedriver/mac64/102.0.5005.61/chromedriver] found in cache
+2022-06-19 20:31:20,641: INFO: *******************************************************
+2022-06-19 20:31:20,642: INFO: **************** TEST SCENARIO START ******************
+2022-06-19 20:31:20,643: INFO: *******************************************************
+2022-06-19 20:31:20,643: INFO: Navigating to https://app.fieldwire.com/#!/auth/register
+2022-06-19 20:31:24,587: INFO: https://app.fieldwire.com/#!/auth/register opened
+2022-06-19 20:31:26,593: INFO: Searching for element by xpath //*[@id='firstNameInput']
+2022-06-19 20:31:26,613: INFO: Element by xpath //*[@id='firstNameInput'] found
+2022-06-19 20:31:26,620: INFO: None value changed
+2022-06-19 20:31:26,684: INFO: Searching for element by xpath //*[@id='lastNameInput']
+2022-06-19 20:31:26,695: INFO: Element by xpath //*[@id='lastNameInput'] found
+2022-06-19 20:31:26,700: INFO: None value changed
+2022-06-19 20:31:26,746: INFO: Searching for element by xpath //*[@id='emailInput']
+2022-06-19 20:31:26,755: INFO: Element by xpath //*[@id='emailInput'] found
+2022-06-19 20:31:26,761: INFO: None value changed
+2022-06-19 20:31:26,833: INFO: Searching for element by xpath //*[@id='passwordInput']
+2022-06-19 20:31:26,843: INFO: Element by xpath //*[@id='passwordInput'] found
+2022-06-19 20:31:26,848: INFO: None value changed
+2022-06-19 20:31:26,902: INFO: Searching for element by xpath //*[@id='explicitAgreement']
+2022-06-19 20:31:26,912: INFO: Element by xpath //*[@id='explicitAgreement'] found
+2022-06-19 20:31:26,921: INFO: Clicking on explicit-input ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required
+2022-06-19 20:31:26,967: INFO: explicit-input ng-untouched ng-not-empty ng-dirty ng-valid-parse ng-valid ng-valid-required clicked
+2022-06-19 20:31:26,967: INFO: Searching for element by xpath //*[@id='login']/form/input
+2022-06-19 20:31:26,976: INFO: Element by xpath //*[@id='login']/form/input found
+2022-06-19 20:31:26,986: INFO: Clicking on btn btn-large btn-primary
+2022-06-19 20:31:27,039: INFO: btn btn-large btn-primary clicked
+2022-06-19 20:31:27,039: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 20:31:27,049: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='company']"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:31:27,553: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 20:31:27,567: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='company']"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:31:28,068: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 20:31:28,749: INFO: Element by xpath //*[@id='company'] found
+2022-06-19 20:31:28,770: INFO: None value changed
+2022-06-19 20:31:28,827: INFO: Searching for element by xpath //*[@id='companyType']
+2022-06-19 20:31:28,837: INFO: Element by xpath //*[@id='companyType'] found
+2022-06-19 20:31:28,861: INFO: Searching for element by css selector option[value ="OTHER"]
+2022-06-19 20:31:28,870: INFO: Element by css selector option[value ="OTHER"] found
+2022-06-19 20:31:28,887: INFO: Clicking on Other
+2022-06-19 20:31:28,922: INFO: Other clicked
+2022-06-19 20:31:28,922: INFO: Searching for element by xpath //*[@id='companySize']
+2022-06-19 20:31:28,932: INFO: Element by xpath //*[@id='companySize'] found
+2022-06-19 20:31:28,950: INFO: Searching for element by css selector option[value ="size_1_10"]
+2022-06-19 20:31:28,960: INFO: Element by css selector option[value ="size_1_10"] found
+2022-06-19 20:31:28,976: INFO: Clicking on 1 - 10
+2022-06-19 20:31:29,010: INFO: 1 - 10 clicked
+2022-06-19 20:31:29,011: INFO: Searching for element by xpath //*[@id='phone']
+2022-06-19 20:31:29,021: INFO: Element by xpath //*[@id='phone'] found
+2022-06-19 20:31:29,034: INFO: None value changed
+2022-06-19 20:31:29,090: INFO: Searching for element by xpath //*[@id='login']/form/input
+2022-06-19 20:31:29,096: INFO: Element by xpath //*[@id='login']/form/input found
+2022-06-19 20:31:29,109: INFO: Clicking on btn btn-large btn-primary
+2022-06-19 20:31:29,169: INFO: btn btn-large btn-primary clicked
+2022-06-19 20:31:38,298: INFO: Searching for element by css selector .new-project.pointer.project-box.relative-pos
+2022-06-19 20:31:38,317: INFO: Element by css selector .new-project.pointer.project-box.relative-pos found
+2022-06-19 20:31:38,330: INFO: Clicking on new-project pointer project-box relative-pos
+2022-06-19 20:31:38,448: INFO: new-project pointer project-box relative-pos clicked
+2022-06-19 20:31:39,726: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[2]/form/div[1]/input
+2022-06-19 20:31:39,741: INFO: Element by xpath /html/body/div[1]/div/div/div/div[2]/form/div[1]/input found
+2022-06-19 20:31:39,747: INFO: None value changed
+2022-06-19 20:31:47,531: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:31:47,545: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div/div[3]/button"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:31:53,404: INFO: Driver quitting
+2022-06-19 20:31:53,522: INFO: Driver quitted
+2022-06-19 20:31:53,522: INFO: *******************************************************
+2022-06-19 20:31:53,522: INFO: **************** TEST SCENARIO END ****************
+2022-06-19 20:31:53,522: INFO: *******************************************************
+2022-06-19 20:33:48,388: INFO: ====== WebDriver manager ======
+2022-06-19 20:33:48,477: INFO: Current google-chrome version is 102.0.5005
+2022-06-19 20:33:48,478: INFO: Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-19 20:33:48,638: INFO: Driver [/Users/davidlee/.wdm/drivers/chromedriver/mac64/102.0.5005.61/chromedriver] found in cache
+2022-06-19 20:33:50,841: INFO: *******************************************************
+2022-06-19 20:33:50,842: INFO: **************** TEST SCENARIO START ******************
+2022-06-19 20:33:50,842: INFO: *******************************************************
+2022-06-19 20:33:50,843: INFO: Navigating to https://app.fieldwire.com/#!/auth/register
+2022-06-19 20:33:55,411: INFO: https://app.fieldwire.com/#!/auth/register opened
+2022-06-19 20:33:57,418: INFO: Searching for element by xpath //*[@id='firstNameInput']
+2022-06-19 20:33:57,436: INFO: Element by xpath //*[@id='firstNameInput'] found
+2022-06-19 20:33:57,443: INFO: None value changed
+2022-06-19 20:33:57,511: INFO: Searching for element by xpath //*[@id='lastNameInput']
+2022-06-19 20:33:57,521: INFO: Element by xpath //*[@id='lastNameInput'] found
+2022-06-19 20:33:57,527: INFO: None value changed
+2022-06-19 20:33:57,573: INFO: Searching for element by xpath //*[@id='emailInput']
+2022-06-19 20:33:57,584: INFO: Element by xpath //*[@id='emailInput'] found
+2022-06-19 20:33:57,591: INFO: None value changed
+2022-06-19 20:33:57,655: INFO: Searching for element by xpath //*[@id='passwordInput']
+2022-06-19 20:33:57,665: INFO: Element by xpath //*[@id='passwordInput'] found
+2022-06-19 20:33:57,671: INFO: None value changed
+2022-06-19 20:33:57,722: INFO: Searching for element by xpath //*[@id='explicitAgreement']
+2022-06-19 20:33:57,733: INFO: Element by xpath //*[@id='explicitAgreement'] found
+2022-06-19 20:33:57,743: INFO: Clicking on explicit-input ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required
+2022-06-19 20:33:57,789: INFO: explicit-input ng-untouched ng-not-empty ng-dirty ng-valid-parse ng-valid ng-valid-required clicked
+2022-06-19 20:33:57,790: INFO: Searching for element by xpath //*[@id='login']/form/input
+2022-06-19 20:33:57,798: INFO: Element by xpath //*[@id='login']/form/input found
+2022-06-19 20:33:57,808: INFO: Clicking on btn btn-large btn-primary
+2022-06-19 20:33:57,860: INFO: btn btn-large btn-primary clicked
+2022-06-19 20:33:57,860: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 20:33:57,870: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='company']"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:33:58,373: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 20:33:58,383: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='company']"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:33:58,886: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 20:33:59,500: INFO: Element by xpath //*[@id='company'] found
+2022-06-19 20:33:59,519: INFO: None value changed
+2022-06-19 20:33:59,574: INFO: Searching for element by xpath //*[@id='companyType']
+2022-06-19 20:33:59,585: INFO: Element by xpath //*[@id='companyType'] found
+2022-06-19 20:33:59,606: INFO: Searching for element by css selector option[value ="OTHER"]
+2022-06-19 20:33:59,615: INFO: Element by css selector option[value ="OTHER"] found
+2022-06-19 20:33:59,633: INFO: Clicking on Other
+2022-06-19 20:33:59,696: INFO: Other clicked
+2022-06-19 20:33:59,696: INFO: Searching for element by xpath //*[@id='companySize']
+2022-06-19 20:33:59,712: INFO: Element by xpath //*[@id='companySize'] found
+2022-06-19 20:33:59,731: INFO: Searching for element by css selector option[value ="size_1_10"]
+2022-06-19 20:33:59,742: INFO: Element by css selector option[value ="size_1_10"] found
+2022-06-19 20:33:59,763: INFO: Clicking on 1 - 10
+2022-06-19 20:33:59,804: INFO: 1 - 10 clicked
+2022-06-19 20:33:59,805: INFO: Searching for element by xpath //*[@id='phone']
+2022-06-19 20:33:59,815: INFO: Element by xpath //*[@id='phone'] found
+2022-06-19 20:33:59,830: INFO: None value changed
+2022-06-19 20:33:59,913: INFO: Searching for element by xpath //*[@id='login']/form/input
+2022-06-19 20:33:59,922: INFO: Element by xpath //*[@id='login']/form/input found
+2022-06-19 20:33:59,937: INFO: Clicking on btn btn-large btn-primary
+2022-06-19 20:34:00,018: INFO: btn btn-large btn-primary clicked
+2022-06-19 20:34:00,022: INFO: Searching for element by css selector .new-project.pointer.project-box.relative-pos
+2022-06-19 20:34:00,035: INFO: Message: no such element: Unable to locate element: {"method":"css selector","selector":".new-project.pointer.project-box.relative-pos"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:34:00,498: INFO: Driver quitting
+2022-06-19 20:34:00,616: INFO: Driver quitted
+2022-06-19 20:34:00,617: INFO: *******************************************************
+2022-06-19 20:34:00,617: INFO: **************** TEST SCENARIO END ****************
+2022-06-19 20:34:00,618: INFO: *******************************************************
+2022-06-19 20:36:18,055: INFO: ====== WebDriver manager ======
+2022-06-19 20:36:18,142: INFO: Current google-chrome version is 102.0.5005
+2022-06-19 20:36:18,143: INFO: Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-19 20:36:18,459: INFO: Driver [/Users/davidlee/.wdm/drivers/chromedriver/mac64/102.0.5005.61/chromedriver] found in cache
+2022-06-19 20:36:20,592: INFO: *******************************************************
+2022-06-19 20:36:20,592: INFO: **************** TEST SCENARIO START ******************
+2022-06-19 20:36:20,593: INFO: *******************************************************
+2022-06-19 20:36:20,593: INFO: Navigating to https://app.fieldwire.com/#!/auth/register
+2022-06-19 20:36:24,632: INFO: https://app.fieldwire.com/#!/auth/register opened
+2022-06-19 20:36:26,638: INFO: Searching for element by xpath //*[@id='firstNameInput']
+2022-06-19 20:36:26,658: INFO: Element by xpath //*[@id='firstNameInput'] found
+2022-06-19 20:36:26,665: INFO: None value changed
+2022-06-19 20:36:26,728: INFO: Searching for element by xpath //*[@id='lastNameInput']
+2022-06-19 20:36:26,738: INFO: Element by xpath //*[@id='lastNameInput'] found
+2022-06-19 20:36:26,746: INFO: None value changed
+2022-06-19 20:36:26,790: INFO: Searching for element by xpath //*[@id='emailInput']
+2022-06-19 20:36:26,800: INFO: Element by xpath //*[@id='emailInput'] found
+2022-06-19 20:36:26,805: INFO: None value changed
+2022-06-19 20:36:26,871: INFO: Searching for element by xpath //*[@id='passwordInput']
+2022-06-19 20:36:26,881: INFO: Element by xpath //*[@id='passwordInput'] found
+2022-06-19 20:36:26,886: INFO: None value changed
+2022-06-19 20:36:26,936: INFO: Searching for element by xpath //*[@id='explicitAgreement']
+2022-06-19 20:36:26,946: INFO: Element by xpath //*[@id='explicitAgreement'] found
+2022-06-19 20:36:26,955: INFO: Clicking on explicit-input ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required
+2022-06-19 20:36:27,001: INFO: explicit-input ng-untouched ng-not-empty ng-dirty ng-valid-parse ng-valid ng-valid-required clicked
+2022-06-19 20:36:27,002: INFO: Searching for element by xpath //*[@id='login']/form/input
+2022-06-19 20:36:27,011: INFO: Element by xpath //*[@id='login']/form/input found
+2022-06-19 20:36:27,021: INFO: Clicking on btn btn-large btn-primary
+2022-06-19 20:36:27,075: INFO: btn btn-large btn-primary clicked
+2022-06-19 20:36:27,075: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 20:36:27,086: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='company']"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:36:27,591: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 20:36:27,601: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='company']"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:36:28,105: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 20:36:28,882: INFO: Element by xpath //*[@id='company'] found
+2022-06-19 20:36:28,900: INFO: None value changed
+2022-06-19 20:36:28,953: INFO: Searching for element by xpath //*[@id='companyType']
+2022-06-19 20:36:28,981: INFO: Element by xpath //*[@id='companyType'] found
+2022-06-19 20:36:29,005: INFO: Searching for element by css selector option[value ="OTHER"]
+2022-06-19 20:36:29,016: INFO: Element by css selector option[value ="OTHER"] found
+2022-06-19 20:36:29,035: INFO: Clicking on Other
+2022-06-19 20:36:29,070: INFO: Other clicked
+2022-06-19 20:36:29,071: INFO: Searching for element by xpath //*[@id='companySize']
+2022-06-19 20:36:29,080: INFO: Element by xpath //*[@id='companySize'] found
+2022-06-19 20:36:29,097: INFO: Searching for element by css selector option[value ="size_1_10"]
+2022-06-19 20:36:29,106: INFO: Element by css selector option[value ="size_1_10"] found
+2022-06-19 20:36:29,134: INFO: Clicking on 1 - 10
+2022-06-19 20:36:29,167: INFO: 1 - 10 clicked
+2022-06-19 20:36:29,168: INFO: Searching for element by xpath //*[@id='phone']
+2022-06-19 20:36:29,177: INFO: Element by xpath //*[@id='phone'] found
+2022-06-19 20:36:29,193: INFO: None value changed
+2022-06-19 20:36:29,250: INFO: Searching for element by xpath //*[@id='login']/form/input
+2022-06-19 20:36:29,256: INFO: Element by xpath //*[@id='login']/form/input found
+2022-06-19 20:36:29,267: INFO: Clicking on btn btn-large btn-primary
+2022-06-19 20:36:29,332: INFO: btn btn-large btn-primary clicked
+2022-06-19 20:36:29,336: INFO: Searching for element by css selector .new-project.pointer.project-box.relative-pos
+2022-06-19 20:36:29,347: INFO: Message: no such element: Unable to locate element: {"method":"css selector","selector":".new-project.pointer.project-box.relative-pos"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:36:29,851: INFO: Searching for element by css selector .new-project.pointer.project-box.relative-pos
+2022-06-19 20:36:29,896: INFO: Element by css selector .new-project.pointer.project-box.relative-pos found
+2022-06-19 20:36:29,920: INFO: Clicking on new-project pointer project-box relative-pos
+2022-06-19 20:36:30,044: INFO: new-project pointer project-box relative-pos clicked
+2022-06-19 20:36:30,045: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[2]/form/div[1]/input
+2022-06-19 20:36:30,078: INFO: Element by xpath /html/body/div[1]/div/div/div/div[2]/form/div[1]/input found
+2022-06-19 20:36:30,111: INFO: None value changed
+2022-06-19 20:36:43,535: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:36:43,553: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div/div[3]/button"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:36:44,056: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:36:44,067: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div/div[3]/button"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:36:44,569: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:36:44,579: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div/div[3]/button"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:36:45,082: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:36:45,097: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div/div[3]/button"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:36:45,598: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:36:45,607: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div/div[3]/button"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:36:46,109: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:36:46,118: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div/div[3]/button"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:36:46,620: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:36:46,628: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div/div[3]/button"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:36:47,133: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:36:47,141: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div/div[3]/button"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:36:47,646: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:36:47,658: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div/div[3]/button"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:36:48,163: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:36:48,173: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div/div[3]/button"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:36:48,678: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:36:48,688: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div/div[3]/button"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:36:49,193: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:36:49,201: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div/div[3]/button"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:36:49,706: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:36:49,717: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div/div[3]/button"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:36:50,221: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:36:50,232: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div/div[3]/button"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:36:50,734: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:36:50,822: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div/div[3]/button"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:36:51,324: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:36:51,672: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div/div[3]/button"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:36:52,176: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:36:52,189: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div/div[3]/button"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:36:52,694: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:36:52,708: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div/div[3]/button"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:36:53,212: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:36:53,228: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div/div[3]/button"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:36:53,729: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:36:53,743: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div/div[3]/button"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:36:54,247: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:36:54,262: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div/div[3]/button"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:36:54,765: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:36:54,781: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div/div[3]/button"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:36:55,282: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:36:55,294: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div/div[3]/button"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:36:55,798: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:36:55,812: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div/div[3]/button"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:36:56,315: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:36:56,340: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div/div[3]/button"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:36:56,845: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:36:56,892: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div/div[3]/button"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:36:57,396: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:36:57,424: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div/div[3]/button"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:36:57,929: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:36:57,956: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div/div[3]/button"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:36:58,460: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:36:58,479: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div/div[3]/button"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:36:58,980: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:36:59,007: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div/div[3]/button"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:36:59,512: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:36:59,544: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div/div[3]/button"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:37:00,048: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:37:00,099: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div/div[3]/button"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:37:00,599: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:37:00,623: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div/div[3]/button"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:37:01,124: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:37:01,144: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div/div[3]/button"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:37:01,646: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:37:01,674: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div/div[3]/button"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:37:02,179: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:37:02,198: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div/div[3]/button"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:37:02,700: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:37:02,713: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div/div[3]/button"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:37:03,218: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:37:03,232: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div/div[3]/button"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:38:10,039: INFO: 'WebDriver' object has no attribute 'shape'
+2022-06-19 20:38:10,039: INFO: 'WebDriver' object has no attribute '__len__'
+2022-06-19 20:38:10,050: INFO: 'WebDriver' object has no attribute 'shape'
+2022-06-19 20:38:10,051: INFO: 'WebDriver' object has no attribute '__len__'
+2022-06-19 20:38:37,624: INFO: Driver quitting
+2022-06-19 20:38:37,625: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x103eef040>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/1853eaaa195c00b12e17fbd1db0967a7
+2022-06-19 20:38:37,626: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x108282d00>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/1853eaaa195c00b12e17fbd1db0967a7
+2022-06-19 20:38:37,626: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x108282e80>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/1853eaaa195c00b12e17fbd1db0967a7
+2022-06-19 20:38:37,632: INFO: Driver quitted
+2022-06-19 20:38:37,632: INFO: *******************************************************
+2022-06-19 20:38:37,632: INFO: **************** TEST SCENARIO END ****************
+2022-06-19 20:38:37,632: INFO: *******************************************************
+2022-06-19 20:38:39,460: INFO: ====== WebDriver manager ======
+2022-06-19 20:38:39,547: INFO: Current google-chrome version is 102.0.5005
+2022-06-19 20:38:39,548: INFO: Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-19 20:38:39,860: INFO: Driver [/Users/davidlee/.wdm/drivers/chromedriver/mac64/102.0.5005.61/chromedriver] found in cache
+2022-06-19 20:38:41,936: INFO: *******************************************************
+2022-06-19 20:38:41,937: INFO: **************** TEST SCENARIO START ******************
+2022-06-19 20:38:41,937: INFO: *******************************************************
+2022-06-19 20:38:41,937: INFO: Navigating to https://app.fieldwire.com/#!/auth/register
+2022-06-19 20:38:46,075: INFO: https://app.fieldwire.com/#!/auth/register opened
+2022-06-19 20:38:48,081: INFO: Searching for element by xpath //*[@id='firstNameInput']
+2022-06-19 20:38:48,097: INFO: Element by xpath //*[@id='firstNameInput'] found
+2022-06-19 20:38:48,104: INFO: None value changed
+2022-06-19 20:38:48,171: INFO: Searching for element by xpath //*[@id='lastNameInput']
+2022-06-19 20:38:48,183: INFO: Element by xpath //*[@id='lastNameInput'] found
+2022-06-19 20:38:48,189: INFO: None value changed
+2022-06-19 20:38:48,235: INFO: Searching for element by xpath //*[@id='emailInput']
+2022-06-19 20:38:48,244: INFO: Element by xpath //*[@id='emailInput'] found
+2022-06-19 20:38:48,250: INFO: None value changed
+2022-06-19 20:38:48,311: INFO: Searching for element by xpath //*[@id='passwordInput']
+2022-06-19 20:38:48,321: INFO: Element by xpath //*[@id='passwordInput'] found
+2022-06-19 20:38:48,326: INFO: None value changed
+2022-06-19 20:38:48,376: INFO: Searching for element by xpath //*[@id='explicitAgreement']
+2022-06-19 20:38:48,386: INFO: Element by xpath //*[@id='explicitAgreement'] found
+2022-06-19 20:38:48,397: INFO: Clicking on explicit-input ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required
+2022-06-19 20:38:48,442: INFO: explicit-input ng-untouched ng-not-empty ng-dirty ng-valid-parse ng-valid ng-valid-required clicked
+2022-06-19 20:38:48,442: INFO: Searching for element by xpath //*[@id='login']/form/input
+2022-06-19 20:38:48,452: INFO: Element by xpath //*[@id='login']/form/input found
+2022-06-19 20:38:48,462: INFO: Clicking on btn btn-large btn-primary
+2022-06-19 20:38:48,516: INFO: btn btn-large btn-primary clicked
+2022-06-19 20:38:48,516: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 20:38:48,527: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='company']"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:38:49,033: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 20:38:49,044: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='company']"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:38:49,545: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 20:38:50,032: INFO: Element by xpath //*[@id='company'] found
+2022-06-19 20:38:50,053: INFO: None value changed
+2022-06-19 20:38:50,102: INFO: Searching for element by xpath //*[@id='companyType']
+2022-06-19 20:38:50,127: INFO: Element by xpath //*[@id='companyType'] found
+2022-06-19 20:38:50,153: INFO: Searching for element by css selector option[value ="OTHER"]
+2022-06-19 20:38:50,163: INFO: Element by css selector option[value ="OTHER"] found
+2022-06-19 20:38:50,182: INFO: Clicking on Other
+2022-06-19 20:38:50,217: INFO: Other clicked
+2022-06-19 20:38:50,218: INFO: Searching for element by xpath //*[@id='companySize']
+2022-06-19 20:38:50,227: INFO: Element by xpath //*[@id='companySize'] found
+2022-06-19 20:38:50,256: INFO: Searching for element by css selector option[value ="size_1_10"]
+2022-06-19 20:38:50,266: INFO: Element by css selector option[value ="size_1_10"] found
+2022-06-19 20:38:50,283: INFO: Clicking on 1 - 10
+2022-06-19 20:38:50,317: INFO: 1 - 10 clicked
+2022-06-19 20:38:50,317: INFO: Searching for element by xpath //*[@id='phone']
+2022-06-19 20:38:50,326: INFO: Element by xpath //*[@id='phone'] found
+2022-06-19 20:38:50,343: INFO: None value changed
+2022-06-19 20:38:50,400: INFO: Searching for element by xpath //*[@id='login']/form/input
+2022-06-19 20:38:50,406: INFO: Element by xpath //*[@id='login']/form/input found
+2022-06-19 20:38:50,417: INFO: Clicking on btn btn-large btn-primary
+2022-06-19 20:38:50,480: INFO: btn btn-large btn-primary clicked
+2022-06-19 20:38:50,484: INFO: Searching for element by css selector .new-project.pointer.project-box.relative-pos
+2022-06-19 20:38:50,493: INFO: Message: no such element: Unable to locate element: {"method":"css selector","selector":".new-project.pointer.project-box.relative-pos"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:38:50,997: INFO: Searching for element by css selector .new-project.pointer.project-box.relative-pos
+2022-06-19 20:38:51,141: INFO: Message: no such element: Unable to locate element: {"method":"css selector","selector":".new-project.pointer.project-box.relative-pos"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:38:51,644: INFO: Searching for element by css selector .new-project.pointer.project-box.relative-pos
+2022-06-19 20:38:51,654: INFO: Element by css selector .new-project.pointer.project-box.relative-pos found
+2022-06-19 20:38:51,672: INFO: Clicking on new-project pointer project-box relative-pos
+2022-06-19 20:38:51,745: INFO: new-project pointer project-box relative-pos clicked
+2022-06-19 20:38:51,747: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[2]/form/div[1]/input
+2022-06-19 20:38:51,759: INFO: Element by xpath /html/body/div[1]/div/div/div/div[2]/form/div[1]/input found
+2022-06-19 20:38:51,780: INFO: None value changed
+2022-06-19 20:38:57,006: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[2]/form/button
+2022-06-19 20:38:57,021: INFO: Element by xpath /html/body/div[1]/div/div/div/div[2]/form/button found
+2022-06-19 20:38:57,041: INFO: Clicking on btn btn-md btn-primary create-project-button form-control ng-scope
+2022-06-19 20:38:57,094: INFO: btn btn-md btn-primary create-project-button form-control ng-scope clicked
+2022-06-19 20:39:00,552: INFO: Driver quitting
+2022-06-19 20:39:00,704: INFO: Driver quitted
+2022-06-19 20:39:00,704: INFO: *******************************************************
+2022-06-19 20:39:00,704: INFO: **************** TEST SCENARIO END ****************
+2022-06-19 20:39:00,705: INFO: *******************************************************
+2022-06-19 20:39:36,239: INFO: ====== WebDriver manager ======
+2022-06-19 20:39:36,328: INFO: Current google-chrome version is 102.0.5005
+2022-06-19 20:39:36,328: INFO: Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-19 20:39:36,627: INFO: Driver [/Users/davidlee/.wdm/drivers/chromedriver/mac64/102.0.5005.61/chromedriver] found in cache
+2022-06-19 20:39:38,733: INFO: *******************************************************
+2022-06-19 20:39:38,734: INFO: **************** TEST SCENARIO START ******************
+2022-06-19 20:39:38,734: INFO: *******************************************************
+2022-06-19 20:39:38,735: INFO: Navigating to https://app.fieldwire.com/#!/auth/register
+2022-06-19 20:39:43,359: INFO: https://app.fieldwire.com/#!/auth/register opened
+2022-06-19 20:39:45,363: INFO: Searching for element by xpath //*[@id='firstNameInput']
+2022-06-19 20:39:45,378: INFO: Element by xpath //*[@id='firstNameInput'] found
+2022-06-19 20:39:45,385: INFO: None value changed
+2022-06-19 20:39:45,449: INFO: Searching for element by xpath //*[@id='lastNameInput']
+2022-06-19 20:39:45,458: INFO: Element by xpath //*[@id='lastNameInput'] found
+2022-06-19 20:39:45,464: INFO: None value changed
+2022-06-19 20:39:45,511: INFO: Searching for element by xpath //*[@id='emailInput']
+2022-06-19 20:39:45,523: INFO: Element by xpath //*[@id='emailInput'] found
+2022-06-19 20:39:45,529: INFO: None value changed
+2022-06-19 20:39:45,594: INFO: Searching for element by xpath //*[@id='passwordInput']
+2022-06-19 20:39:45,604: INFO: Element by xpath //*[@id='passwordInput'] found
+2022-06-19 20:39:45,610: INFO: None value changed
+2022-06-19 20:39:45,660: INFO: Searching for element by xpath //*[@id='explicitAgreement']
+2022-06-19 20:39:45,669: INFO: Element by xpath //*[@id='explicitAgreement'] found
+2022-06-19 20:39:45,679: INFO: Clicking on explicit-input ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required
+2022-06-19 20:39:45,727: INFO: explicit-input ng-untouched ng-not-empty ng-dirty ng-valid-parse ng-valid ng-valid-required clicked
+2022-06-19 20:39:45,728: INFO: Searching for element by xpath //*[@id='login']/form/input
+2022-06-19 20:39:45,737: INFO: Element by xpath //*[@id='login']/form/input found
+2022-06-19 20:39:45,747: INFO: Clicking on btn btn-large btn-primary
+2022-06-19 20:39:45,797: INFO: btn btn-large btn-primary clicked
+2022-06-19 20:39:45,798: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 20:39:45,807: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='company']"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:39:46,312: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 20:39:46,324: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='company']"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:39:46,829: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 20:39:47,437: INFO: Element by xpath //*[@id='company'] found
+2022-06-19 20:39:47,457: INFO: None value changed
+2022-06-19 20:39:47,506: INFO: Searching for element by xpath //*[@id='companyType']
+2022-06-19 20:39:47,516: INFO: Element by xpath //*[@id='companyType'] found
+2022-06-19 20:39:47,537: INFO: Searching for element by css selector option[value ="OTHER"]
+2022-06-19 20:39:47,546: INFO: Element by css selector option[value ="OTHER"] found
+2022-06-19 20:39:47,563: INFO: Clicking on Other
+2022-06-19 20:39:47,599: INFO: Other clicked
+2022-06-19 20:39:47,600: INFO: Searching for element by xpath //*[@id='companySize']
+2022-06-19 20:39:47,610: INFO: Element by xpath //*[@id='companySize'] found
+2022-06-19 20:39:47,629: INFO: Searching for element by css selector option[value ="size_1_10"]
+2022-06-19 20:39:47,639: INFO: Element by css selector option[value ="size_1_10"] found
+2022-06-19 20:39:47,657: INFO: Clicking on 1 - 10
+2022-06-19 20:39:47,694: INFO: 1 - 10 clicked
+2022-06-19 20:39:47,695: INFO: Searching for element by xpath //*[@id='phone']
+2022-06-19 20:39:47,706: INFO: Element by xpath //*[@id='phone'] found
+2022-06-19 20:39:47,724: INFO: None value changed
+2022-06-19 20:39:47,794: INFO: Searching for element by xpath //*[@id='login']/form/input
+2022-06-19 20:39:47,802: INFO: Element by xpath //*[@id='login']/form/input found
+2022-06-19 20:39:47,813: INFO: Clicking on btn btn-large btn-primary
+2022-06-19 20:39:47,880: INFO: btn btn-large btn-primary clicked
+2022-06-19 20:39:47,886: INFO: Searching for element by css selector .new-project.pointer.project-box.relative-pos
+2022-06-19 20:39:47,897: INFO: Message: no such element: Unable to locate element: {"method":"css selector","selector":".new-project.pointer.project-box.relative-pos"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:39:48,401: INFO: Searching for element by css selector .new-project.pointer.project-box.relative-pos
+2022-06-19 20:39:48,546: INFO: Element by css selector .new-project.pointer.project-box.relative-pos found
+2022-06-19 20:39:48,598: INFO: Clicking on new-project pointer project-box relative-pos
+2022-06-19 20:39:48,722: INFO: new-project pointer project-box relative-pos clicked
+2022-06-19 20:39:48,723: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[2]/form/div[1]/input
+2022-06-19 20:39:48,744: INFO: Element by xpath /html/body/div[1]/div/div/div/div[2]/form/div[1]/input found
+2022-06-19 20:39:48,789: INFO: None value changed
+2022-06-19 20:43:25,908: INFO: ====== WebDriver manager ======
+2022-06-19 20:43:26,142: INFO: Current google-chrome version is 102.0.5005
+2022-06-19 20:43:26,142: INFO: Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-19 20:43:26,421: INFO: Driver [/Users/davidlee/.wdm/drivers/chromedriver/mac64/102.0.5005.61/chromedriver] found in cache
+2022-06-19 20:43:28,640: INFO: *******************************************************
+2022-06-19 20:43:28,641: INFO: **************** TEST SCENARIO START ******************
+2022-06-19 20:43:28,641: INFO: *******************************************************
+2022-06-19 20:43:28,642: INFO: Navigating to https://app.fieldwire.com/#!/auth/register
+2022-06-19 20:43:31,264: INFO: https://app.fieldwire.com/#!/auth/register opened
+2022-06-19 20:43:33,271: INFO: Searching for element by xpath //*[@id='firstNameInput']
+2022-06-19 20:43:33,294: INFO: Element by xpath //*[@id='firstNameInput'] found
+2022-06-19 20:43:33,301: INFO: None value changed
+2022-06-19 20:43:33,371: INFO: Searching for element by xpath //*[@id='lastNameInput']
+2022-06-19 20:43:33,381: INFO: Element by xpath //*[@id='lastNameInput'] found
+2022-06-19 20:43:33,387: INFO: None value changed
+2022-06-19 20:43:33,435: INFO: Searching for element by xpath //*[@id='emailInput']
+2022-06-19 20:43:33,445: INFO: Element by xpath //*[@id='emailInput'] found
+2022-06-19 20:43:33,452: INFO: None value changed
+2022-06-19 20:43:33,523: INFO: Searching for element by xpath //*[@id='passwordInput']
+2022-06-19 20:43:33,534: INFO: Element by xpath //*[@id='passwordInput'] found
+2022-06-19 20:43:33,540: INFO: None value changed
+2022-06-19 20:43:33,627: INFO: Searching for element by xpath //*[@id='explicitAgreement']
+2022-06-19 20:43:33,637: INFO: Element by xpath //*[@id='explicitAgreement'] found
+2022-06-19 20:43:33,647: INFO: Clicking on explicit-input ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required
+2022-06-19 20:43:33,696: INFO: explicit-input ng-untouched ng-not-empty ng-dirty ng-valid-parse ng-valid ng-valid-required clicked
+2022-06-19 20:43:33,697: INFO: Searching for element by xpath //*[@id='login']/form/input
+2022-06-19 20:43:33,706: INFO: Element by xpath //*[@id='login']/form/input found
+2022-06-19 20:43:33,717: INFO: Clicking on btn btn-large btn-primary
+2022-06-19 20:43:33,767: INFO: btn btn-large btn-primary clicked
+2022-06-19 20:43:33,768: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 20:43:33,777: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='company']"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:43:34,282: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 20:43:34,294: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='company']"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:43:34,798: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 20:43:35,413: INFO: Element by xpath //*[@id='company'] found
+2022-06-19 20:43:35,436: INFO: None value changed
+2022-06-19 20:43:35,486: INFO: Searching for element by xpath //*[@id='companyType']
+2022-06-19 20:43:35,512: INFO: Element by xpath //*[@id='companyType'] found
+2022-06-19 20:43:35,541: INFO: Searching for element by css selector option[value ="OTHER"]
+2022-06-19 20:43:35,551: INFO: Element by css selector option[value ="OTHER"] found
+2022-06-19 20:43:35,572: INFO: Clicking on Other
+2022-06-19 20:43:35,606: INFO: Other clicked
+2022-06-19 20:43:35,607: INFO: Searching for element by xpath //*[@id='companySize']
+2022-06-19 20:43:35,617: INFO: Element by xpath //*[@id='companySize'] found
+2022-06-19 20:43:35,646: INFO: Searching for element by css selector option[value ="size_1_10"]
+2022-06-19 20:43:35,656: INFO: Element by css selector option[value ="size_1_10"] found
+2022-06-19 20:43:35,672: INFO: Clicking on 1 - 10
+2022-06-19 20:43:35,704: INFO: 1 - 10 clicked
+2022-06-19 20:43:35,704: INFO: Searching for element by xpath //*[@id='phone']
+2022-06-19 20:43:35,714: INFO: Element by xpath //*[@id='phone'] found
+2022-06-19 20:43:35,729: INFO: None value changed
+2022-06-19 20:43:35,793: INFO: Searching for element by xpath //*[@id='login']/form/input
+2022-06-19 20:43:35,800: INFO: Element by xpath //*[@id='login']/form/input found
+2022-06-19 20:43:35,810: INFO: Clicking on btn btn-large btn-primary
+2022-06-19 20:43:35,872: INFO: btn btn-large btn-primary clicked
+2022-06-19 20:43:35,877: INFO: Searching for element by css selector .new-project.pointer.project-box.relative-pos
+2022-06-19 20:43:35,889: INFO: Message: no such element: Unable to locate element: {"method":"css selector","selector":".new-project.pointer.project-box.relative-pos"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:43:36,393: INFO: Searching for element by css selector .new-project.pointer.project-box.relative-pos
+2022-06-19 20:43:36,407: INFO: Message: no such element: Unable to locate element: {"method":"css selector","selector":".new-project.pointer.project-box.relative-pos"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:43:36,912: INFO: Searching for element by css selector .new-project.pointer.project-box.relative-pos
+2022-06-19 20:43:36,922: INFO: Element by css selector .new-project.pointer.project-box.relative-pos found
+2022-06-19 20:43:36,944: INFO: Clicking on new-project pointer project-box relative-pos
+2022-06-19 20:43:37,007: INFO: new-project pointer project-box relative-pos clicked
+2022-06-19 20:43:37,007: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[2]/form/div[1]/input
+2022-06-19 20:43:37,018: INFO: Element by xpath /html/body/div[1]/div/div/div/div[2]/form/div[1]/input found
+2022-06-19 20:43:37,033: INFO: None value changed
+2022-06-19 20:43:37,111: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[2]/form/button
+2022-06-19 20:43:37,125: INFO: Element by xpath /html/body/div[1]/div/div/div/div[2]/form/button found
+2022-06-19 20:43:37,154: INFO: Clicking on btn btn-md btn-primary create-project-button form-control ng-scope
+2022-06-19 20:43:37,253: INFO: btn btn-md btn-primary create-project-button form-control ng-scope clicked
+2022-06-19 20:43:46,314: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:43:46,329: INFO: Element by xpath /html/body/div[1]/div/div/div/div[3]/button found
+2022-06-19 20:43:46,844: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:43:46,855: INFO: Element by xpath /html/body/div[1]/div/div/div/div[3]/button found
+2022-06-19 20:43:47,368: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:43:47,378: INFO: Element by xpath /html/body/div[1]/div/div/div/div[3]/button found
+2022-06-19 20:43:47,890: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:43:47,900: INFO: Element by xpath /html/body/div[1]/div/div/div/div[3]/button found
+2022-06-19 20:43:48,413: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:43:48,423: INFO: Element by xpath /html/body/div[1]/div/div/div/div[3]/button found
+2022-06-19 20:43:48,933: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:43:48,943: INFO: Element by xpath /html/body/div[1]/div/div/div/div[3]/button found
+2022-06-19 20:43:49,454: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:43:49,461: INFO: Element by xpath /html/body/div[1]/div/div/div/div[3]/button found
+2022-06-19 20:43:49,969: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:43:49,978: INFO: Element by xpath /html/body/div[1]/div/div/div/div[3]/button found
+2022-06-19 20:43:50,490: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:43:50,499: INFO: Element by xpath /html/body/div[1]/div/div/div/div[3]/button found
+2022-06-19 20:43:51,012: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:43:51,023: INFO: Element by xpath /html/body/div[1]/div/div/div/div[3]/button found
+2022-06-19 20:43:51,535: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:43:51,545: INFO: Element by xpath /html/body/div[1]/div/div/div/div[3]/button found
+2022-06-19 20:43:52,058: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:43:52,068: INFO: Element by xpath /html/body/div[1]/div/div/div/div[3]/button found
+2022-06-19 20:43:52,580: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:43:52,652: INFO: Element by xpath /html/body/div[1]/div/div/div/div[3]/button found
+2022-06-19 20:43:53,164: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:43:53,173: INFO: Element by xpath /html/body/div[1]/div/div/div/div[3]/button found
+2022-06-19 20:43:53,685: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:43:53,695: INFO: Element by xpath /html/body/div[1]/div/div/div/div[3]/button found
+2022-06-19 20:43:54,206: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:43:54,216: INFO: Element by xpath /html/body/div[1]/div/div/div/div[3]/button found
+2022-06-19 20:43:54,729: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:43:54,739: INFO: Element by xpath /html/body/div[1]/div/div/div/div[3]/button found
+2022-06-19 20:43:55,252: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:43:55,260: INFO: Element by xpath /html/body/div[1]/div/div/div/div[3]/button found
+2022-06-19 20:43:55,770: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:43:55,779: INFO: Element by xpath /html/body/div[1]/div/div/div/div[3]/button found
+2022-06-19 20:43:55,802: INFO: Clicking on btn next-btn ng-binding btn-default
+2022-06-19 20:43:55,871: INFO: btn next-btn ng-binding btn-default clicked
+2022-06-19 20:44:01,538: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:44:01,548: INFO: Element by xpath /html/body/div[1]/div/div/div/div[3]/button found
+2022-06-19 20:44:01,569: INFO: Clicking on btn btn-default pull-left back-button ng-scope
+2022-06-19 20:44:08,132: INFO: Driver quitting
+2022-06-19 20:44:08,237: INFO: Driver quitted
+2022-06-19 20:44:08,238: INFO: *******************************************************
+2022-06-19 20:44:08,238: INFO: **************** TEST SCENARIO END ****************
+2022-06-19 20:44:08,238: INFO: *******************************************************
+2022-06-19 20:44:33,463: INFO: ====== WebDriver manager ======
+2022-06-19 20:44:33,553: INFO: Current google-chrome version is 102.0.5005
+2022-06-19 20:44:33,554: INFO: Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-19 20:44:33,868: INFO: Driver [/Users/davidlee/.wdm/drivers/chromedriver/mac64/102.0.5005.61/chromedriver] found in cache
+2022-06-19 20:44:35,992: INFO: *******************************************************
+2022-06-19 20:44:35,993: INFO: **************** TEST SCENARIO START ******************
+2022-06-19 20:44:35,993: INFO: *******************************************************
+2022-06-19 20:44:35,993: INFO: Navigating to https://app.fieldwire.com/#!/auth/register
+2022-06-19 20:44:38,516: INFO: https://app.fieldwire.com/#!/auth/register opened
+2022-06-19 20:44:40,522: INFO: Searching for element by xpath //*[@id='firstNameInput']
+2022-06-19 20:44:40,539: INFO: Element by xpath //*[@id='firstNameInput'] found
+2022-06-19 20:44:40,546: INFO: None value changed
+2022-06-19 20:44:40,621: INFO: Searching for element by xpath //*[@id='lastNameInput']
+2022-06-19 20:44:40,632: INFO: Element by xpath //*[@id='lastNameInput'] found
+2022-06-19 20:44:40,639: INFO: None value changed
+2022-06-19 20:44:40,684: INFO: Searching for element by xpath //*[@id='emailInput']
+2022-06-19 20:44:40,695: INFO: Element by xpath //*[@id='emailInput'] found
+2022-06-19 20:44:40,700: INFO: None value changed
+2022-06-19 20:44:40,762: INFO: Searching for element by xpath //*[@id='passwordInput']
+2022-06-19 20:44:40,775: INFO: Element by xpath //*[@id='passwordInput'] found
+2022-06-19 20:44:40,780: INFO: None value changed
+2022-06-19 20:44:40,830: INFO: Searching for element by xpath //*[@id='explicitAgreement']
+2022-06-19 20:44:40,840: INFO: Element by xpath //*[@id='explicitAgreement'] found
+2022-06-19 20:44:40,850: INFO: Clicking on explicit-input ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required
+2022-06-19 20:44:40,896: INFO: explicit-input ng-untouched ng-not-empty ng-dirty ng-valid-parse ng-valid ng-valid-required clicked
+2022-06-19 20:44:40,896: INFO: Searching for element by xpath //*[@id='login']/form/input
+2022-06-19 20:44:40,905: INFO: Element by xpath //*[@id='login']/form/input found
+2022-06-19 20:44:40,916: INFO: Clicking on btn btn-large btn-primary
+2022-06-19 20:44:40,968: INFO: btn btn-large btn-primary clicked
+2022-06-19 20:44:40,969: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 20:44:40,979: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='company']"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:44:41,483: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 20:44:41,493: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='company']"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:44:41,997: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 20:44:42,574: INFO: Element by xpath //*[@id='company'] found
+2022-06-19 20:44:42,593: INFO: None value changed
+2022-06-19 20:44:42,641: INFO: Searching for element by xpath //*[@id='companyType']
+2022-06-19 20:44:42,650: INFO: Element by xpath //*[@id='companyType'] found
+2022-06-19 20:44:42,670: INFO: Searching for element by css selector option[value ="OTHER"]
+2022-06-19 20:44:42,681: INFO: Element by css selector option[value ="OTHER"] found
+2022-06-19 20:44:42,720: INFO: Clicking on Other
+2022-06-19 20:44:42,760: INFO: Other clicked
+2022-06-19 20:44:42,760: INFO: Searching for element by xpath //*[@id='companySize']
+2022-06-19 20:44:42,769: INFO: Element by xpath //*[@id='companySize'] found
+2022-06-19 20:44:42,788: INFO: Searching for element by css selector option[value ="size_1_10"]
+2022-06-19 20:44:42,799: INFO: Element by css selector option[value ="size_1_10"] found
+2022-06-19 20:44:42,817: INFO: Clicking on 1 - 10
+2022-06-19 20:44:42,853: INFO: 1 - 10 clicked
+2022-06-19 20:44:42,853: INFO: Searching for element by xpath //*[@id='phone']
+2022-06-19 20:44:42,863: INFO: Element by xpath //*[@id='phone'] found
+2022-06-19 20:44:42,880: INFO: None value changed
+2022-06-19 20:44:42,944: INFO: Searching for element by xpath //*[@id='login']/form/input
+2022-06-19 20:44:42,951: INFO: Element by xpath //*[@id='login']/form/input found
+2022-06-19 20:44:42,963: INFO: Clicking on btn btn-large btn-primary
+2022-06-19 20:44:43,044: INFO: btn btn-large btn-primary clicked
+2022-06-19 20:44:43,050: INFO: Searching for element by css selector .new-project.pointer.project-box.relative-pos
+2022-06-19 20:44:43,063: INFO: Message: no such element: Unable to locate element: {"method":"css selector","selector":".new-project.pointer.project-box.relative-pos"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:44:43,565: INFO: Searching for element by css selector .new-project.pointer.project-box.relative-pos
+2022-06-19 20:44:43,611: INFO: Element by css selector .new-project.pointer.project-box.relative-pos found
+2022-06-19 20:44:43,676: INFO: Clicking on new-project pointer project-box relative-pos
+2022-06-19 20:44:43,821: INFO: new-project pointer project-box relative-pos clicked
+2022-06-19 20:44:43,822: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[2]/form/div[1]/input
+2022-06-19 20:44:43,834: INFO: Element by xpath /html/body/div[1]/div/div/div/div[2]/form/div[1]/input found
+2022-06-19 20:44:43,856: INFO: None value changed
+2022-06-19 20:44:43,976: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[2]/form/button
+2022-06-19 20:44:43,991: INFO: Element by xpath /html/body/div[1]/div/div/div/div[2]/form/button found
+2022-06-19 20:44:44,018: INFO: Clicking on btn btn-md btn-primary create-project-button form-control ng-scope
+2022-06-19 20:44:44,094: INFO: btn btn-md btn-primary create-project-button form-control ng-scope clicked
+2022-06-19 20:44:44,095: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:44:44,109: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div/div[3]/button"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:44:44,611: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:44:44,806: INFO: Element by xpath /html/body/div[1]/div/div/div/div[3]/button found
+2022-06-19 20:44:44,853: INFO: Clicking on btn next-btn ng-binding btn-default
+2022-06-19 20:44:44,933: INFO: btn next-btn ng-binding btn-default clicked
+2022-06-19 20:47:50,388: INFO: Driver quitting
+2022-06-19 20:47:50,389: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10b418040>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/b2a6547b443fa54b25871533e1f94085
+2022-06-19 20:47:50,389: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10f8cf820>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/b2a6547b443fa54b25871533e1f94085
+2022-06-19 20:47:50,390: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10f8cfa60>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/b2a6547b443fa54b25871533e1f94085
+2022-06-19 20:47:50,395: INFO: Driver quitted
+2022-06-19 20:47:50,395: INFO: *******************************************************
+2022-06-19 20:47:50,395: INFO: **************** TEST SCENARIO END ****************
+2022-06-19 20:47:50,396: INFO: *******************************************************
+2022-06-19 20:47:52,951: INFO: ====== WebDriver manager ======
+2022-06-19 20:47:53,039: INFO: Current google-chrome version is 102.0.5005
+2022-06-19 20:47:53,040: INFO: Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-19 20:47:53,311: INFO: Driver [/Users/davidlee/.wdm/drivers/chromedriver/mac64/102.0.5005.61/chromedriver] found in cache
+2022-06-19 20:47:55,521: INFO: *******************************************************
+2022-06-19 20:47:55,522: INFO: **************** TEST SCENARIO START ******************
+2022-06-19 20:47:55,522: INFO: *******************************************************
+2022-06-19 20:47:55,522: INFO: Navigating to https://app.fieldwire.com/#!/auth/register
+2022-06-19 20:47:58,076: INFO: https://app.fieldwire.com/#!/auth/register opened
+2022-06-19 20:48:00,083: INFO: Searching for element by xpath //*[@id='firstNameInput']
+2022-06-19 20:48:00,103: INFO: Element by xpath //*[@id='firstNameInput'] found
+2022-06-19 20:48:00,110: INFO: None value changed
+2022-06-19 20:48:00,173: INFO: Searching for element by xpath //*[@id='lastNameInput']
+2022-06-19 20:48:00,183: INFO: Element by xpath //*[@id='lastNameInput'] found
+2022-06-19 20:48:00,190: INFO: None value changed
+2022-06-19 20:48:00,235: INFO: Searching for element by xpath //*[@id='emailInput']
+2022-06-19 20:48:00,245: INFO: Element by xpath //*[@id='emailInput'] found
+2022-06-19 20:48:00,252: INFO: None value changed
+2022-06-19 20:48:00,317: INFO: Searching for element by xpath //*[@id='passwordInput']
+2022-06-19 20:48:00,327: INFO: Element by xpath //*[@id='passwordInput'] found
+2022-06-19 20:48:00,334: INFO: None value changed
+2022-06-19 20:48:00,390: INFO: Searching for element by xpath //*[@id='explicitAgreement']
+2022-06-19 20:48:00,400: INFO: Element by xpath //*[@id='explicitAgreement'] found
+2022-06-19 20:48:00,410: INFO: Clicking on explicit-input ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required
+2022-06-19 20:48:00,456: INFO: explicit-input ng-untouched ng-not-empty ng-dirty ng-valid-parse ng-valid ng-valid-required clicked
+2022-06-19 20:48:00,456: INFO: Searching for element by xpath //*[@id='login']/form/input
+2022-06-19 20:48:00,465: INFO: Element by xpath //*[@id='login']/form/input found
+2022-06-19 20:48:00,475: INFO: Clicking on btn btn-large btn-primary
+2022-06-19 20:48:00,533: INFO: btn btn-large btn-primary clicked
+2022-06-19 20:48:00,533: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 20:48:00,543: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='company']"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:48:01,047: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 20:48:01,059: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='company']"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:48:01,564: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 20:48:02,223: INFO: Element by xpath //*[@id='company'] found
+2022-06-19 20:48:02,242: INFO: None value changed
+2022-06-19 20:48:02,298: INFO: Searching for element by xpath //*[@id='companyType']
+2022-06-19 20:48:02,328: INFO: Element by xpath //*[@id='companyType'] found
+2022-06-19 20:48:02,352: INFO: Searching for element by css selector option[value ="OTHER"]
+2022-06-19 20:48:02,362: INFO: Element by css selector option[value ="OTHER"] found
+2022-06-19 20:48:02,379: INFO: Clicking on Other
+2022-06-19 20:48:02,416: INFO: Other clicked
+2022-06-19 20:48:02,417: INFO: Searching for element by xpath //*[@id='companySize']
+2022-06-19 20:48:02,426: INFO: Element by xpath //*[@id='companySize'] found
+2022-06-19 20:48:02,457: INFO: Searching for element by css selector option[value ="size_1_10"]
+2022-06-19 20:48:02,467: INFO: Element by css selector option[value ="size_1_10"] found
+2022-06-19 20:48:02,485: INFO: Clicking on 1 - 10
+2022-06-19 20:48:02,524: INFO: 1 - 10 clicked
+2022-06-19 20:48:02,524: INFO: Searching for element by xpath //*[@id='phone']
+2022-06-19 20:48:02,534: INFO: Element by xpath //*[@id='phone'] found
+2022-06-19 20:48:02,546: INFO: None value changed
+2022-06-19 20:48:02,604: INFO: Searching for element by xpath //*[@id='login']/form/input
+2022-06-19 20:48:02,610: INFO: Element by xpath //*[@id='login']/form/input found
+2022-06-19 20:48:02,620: INFO: Clicking on btn btn-large btn-primary
+2022-06-19 20:48:02,681: INFO: btn btn-large btn-primary clicked
+2022-06-19 20:48:02,685: INFO: Searching for element by css selector .new-project.pointer.project-box.relative-pos
+2022-06-19 20:48:02,695: INFO: Message: no such element: Unable to locate element: {"method":"css selector","selector":".new-project.pointer.project-box.relative-pos"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:48:03,199: INFO: Searching for element by css selector .new-project.pointer.project-box.relative-pos
+2022-06-19 20:48:03,212: INFO: Message: no such element: Unable to locate element: {"method":"css selector","selector":".new-project.pointer.project-box.relative-pos"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:48:03,717: INFO: Searching for element by css selector .new-project.pointer.project-box.relative-pos
+2022-06-19 20:48:03,726: INFO: Element by css selector .new-project.pointer.project-box.relative-pos found
+2022-06-19 20:48:03,750: INFO: Clicking on new-project pointer project-box relative-pos
+2022-06-19 20:48:03,824: INFO: new-project pointer project-box relative-pos clicked
+2022-06-19 20:48:03,824: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[2]/form/div[1]/input
+2022-06-19 20:48:03,839: INFO: Element by xpath /html/body/div[1]/div/div/div/div[2]/form/div[1]/input found
+2022-06-19 20:48:03,859: INFO: None value changed
+2022-06-19 20:48:03,961: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[2]/form/button
+2022-06-19 20:48:03,979: INFO: Element by xpath /html/body/div[1]/div/div/div/div[2]/form/button found
+2022-06-19 20:48:04,035: INFO: Clicking on btn btn-md btn-primary create-project-button form-control ng-scope
+2022-06-19 20:48:04,122: INFO: btn btn-md btn-primary create-project-button form-control ng-scope clicked
+2022-06-19 20:48:04,122: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:48:04,136: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div/div[3]/button"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:48:04,637: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:48:04,894: INFO: Element by xpath /html/body/div[1]/div/div/div/div[3]/button found
+2022-06-19 20:48:04,978: INFO: Clicking on btn next-btn ng-binding btn-default
+2022-06-19 20:48:05,060: INFO: btn next-btn ng-binding btn-default clicked
+2022-06-19 20:48:12,017: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button[2]
+2022-06-19 20:48:12,029: INFO: Element by xpath /html/body/div[1]/div/div/div/div[3]/button[2] found
+2022-06-19 20:48:12,046: INFO: Clicking on btn next-btn ng-binding btn-default
+2022-06-19 20:48:12,100: INFO: btn next-btn ng-binding btn-default clicked
+2022-06-19 20:48:13,119: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button[2]
+2022-06-19 20:48:13,126: INFO: Element by xpath /html/body/div[1]/div/div/div/div[3]/button[2] found
+2022-06-19 20:48:13,146: INFO: Clicking on btn next-btn ng-binding btn-default
+2022-06-19 20:48:13,214: INFO: btn next-btn ng-binding btn-primary clicked
+2022-06-19 20:48:14,596: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button[2]
+2022-06-19 20:48:14,603: INFO: Element by xpath /html/body/div[1]/div/div/div/div[3]/button[2] found
+2022-06-19 20:48:14,619: INFO: Clicking on btn next-btn ng-binding btn-primary
+2022-06-19 20:48:19,244: INFO: Driver quitting
+2022-06-19 20:48:19,377: INFO: Driver quitted
+2022-06-19 20:48:19,377: INFO: *******************************************************
+2022-06-19 20:48:19,377: INFO: **************** TEST SCENARIO END ****************
+2022-06-19 20:48:19,378: INFO: *******************************************************
+2022-06-19 20:48:43,200: INFO: ====== WebDriver manager ======
+2022-06-19 20:48:43,289: INFO: Current google-chrome version is 102.0.5005
+2022-06-19 20:48:43,290: INFO: Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-19 20:48:43,518: INFO: Driver [/Users/davidlee/.wdm/drivers/chromedriver/mac64/102.0.5005.61/chromedriver] found in cache
+2022-06-19 20:48:45,700: INFO: *******************************************************
+2022-06-19 20:48:45,701: INFO: **************** TEST SCENARIO START ******************
+2022-06-19 20:48:45,701: INFO: *******************************************************
+2022-06-19 20:48:45,701: INFO: Navigating to https://app.fieldwire.com/#!/auth/register
+2022-06-19 20:48:52,968: INFO: https://app.fieldwire.com/#!/auth/register opened
+2022-06-19 20:48:54,971: INFO: Searching for element by xpath //*[@id='firstNameInput']
+2022-06-19 20:48:54,989: INFO: Element by xpath //*[@id='firstNameInput'] found
+2022-06-19 20:48:54,996: INFO: None value changed
+2022-06-19 20:48:55,062: INFO: Searching for element by xpath //*[@id='lastNameInput']
+2022-06-19 20:48:55,072: INFO: Element by xpath //*[@id='lastNameInput'] found
+2022-06-19 20:48:55,078: INFO: None value changed
+2022-06-19 20:48:55,125: INFO: Searching for element by xpath //*[@id='emailInput']
+2022-06-19 20:48:55,137: INFO: Element by xpath //*[@id='emailInput'] found
+2022-06-19 20:48:55,144: INFO: None value changed
+2022-06-19 20:48:55,214: INFO: Searching for element by xpath //*[@id='passwordInput']
+2022-06-19 20:48:55,225: INFO: Element by xpath //*[@id='passwordInput'] found
+2022-06-19 20:48:55,232: INFO: None value changed
+2022-06-19 20:48:55,298: INFO: Searching for element by xpath //*[@id='explicitAgreement']
+2022-06-19 20:48:55,312: INFO: Element by xpath //*[@id='explicitAgreement'] found
+2022-06-19 20:48:55,324: INFO: Clicking on explicit-input ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required
+2022-06-19 20:48:55,375: INFO: explicit-input ng-untouched ng-not-empty ng-dirty ng-valid-parse ng-valid ng-valid-required clicked
+2022-06-19 20:48:55,375: INFO: Searching for element by xpath //*[@id='login']/form/input
+2022-06-19 20:48:55,384: INFO: Element by xpath //*[@id='login']/form/input found
+2022-06-19 20:48:55,395: INFO: Clicking on btn btn-large btn-primary
+2022-06-19 20:48:55,447: INFO: btn btn-large btn-primary clicked
+2022-06-19 20:48:55,448: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 20:48:55,457: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='company']"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:48:55,961: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 20:48:56,001: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='company']"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:48:56,504: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 20:48:56,949: INFO: Element by xpath //*[@id='company'] found
+2022-06-19 20:48:56,968: INFO: None value changed
+2022-06-19 20:48:57,024: INFO: Searching for element by xpath //*[@id='companyType']
+2022-06-19 20:48:57,034: INFO: Element by xpath //*[@id='companyType'] found
+2022-06-19 20:48:57,057: INFO: Searching for element by css selector option[value ="OTHER"]
+2022-06-19 20:48:57,066: INFO: Element by css selector option[value ="OTHER"] found
+2022-06-19 20:48:57,084: INFO: Clicking on Other
+2022-06-19 20:48:57,118: INFO: Other clicked
+2022-06-19 20:48:57,119: INFO: Searching for element by xpath //*[@id='companySize']
+2022-06-19 20:48:57,128: INFO: Element by xpath //*[@id='companySize'] found
+2022-06-19 20:48:57,146: INFO: Searching for element by css selector option[value ="size_1_10"]
+2022-06-19 20:48:57,156: INFO: Element by css selector option[value ="size_1_10"] found
+2022-06-19 20:48:57,173: INFO: Clicking on 1 - 10
+2022-06-19 20:48:57,209: INFO: 1 - 10 clicked
+2022-06-19 20:48:57,209: INFO: Searching for element by xpath //*[@id='phone']
+2022-06-19 20:48:57,218: INFO: Element by xpath //*[@id='phone'] found
+2022-06-19 20:48:57,232: INFO: None value changed
+2022-06-19 20:48:57,289: INFO: Searching for element by xpath //*[@id='login']/form/input
+2022-06-19 20:48:57,295: INFO: Element by xpath //*[@id='login']/form/input found
+2022-06-19 20:48:57,306: INFO: Clicking on btn btn-large btn-primary
+2022-06-19 20:48:57,369: INFO: btn btn-large btn-primary clicked
+2022-06-19 20:48:57,376: INFO: Searching for element by css selector .new-project.pointer.project-box.relative-pos
+2022-06-19 20:48:57,386: INFO: Message: no such element: Unable to locate element: {"method":"css selector","selector":".new-project.pointer.project-box.relative-pos"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:48:57,887: INFO: Searching for element by css selector .new-project.pointer.project-box.relative-pos
+2022-06-19 20:48:57,896: INFO: Message: no such element: Unable to locate element: {"method":"css selector","selector":".new-project.pointer.project-box.relative-pos"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:48:58,399: INFO: Searching for element by css selector .new-project.pointer.project-box.relative-pos
+2022-06-19 20:48:58,414: INFO: Element by css selector .new-project.pointer.project-box.relative-pos found
+2022-06-19 20:48:58,441: INFO: Clicking on new-project pointer project-box relative-pos
+2022-06-19 20:48:58,580: INFO: new-project pointer project-box relative-pos clicked
+2022-06-19 20:48:58,581: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[2]/form/div[1]/input
+2022-06-19 20:48:58,607: INFO: Element by xpath /html/body/div[1]/div/div/div/div[2]/form/div[1]/input found
+2022-06-19 20:48:58,651: INFO: None value changed
+2022-06-19 20:48:58,814: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[2]/form/button
+2022-06-19 20:48:58,834: INFO: Element by xpath /html/body/div[1]/div/div/div/div[2]/form/button found
+2022-06-19 20:48:58,876: INFO: Clicking on btn btn-md btn-primary create-project-button form-control ng-scope
+2022-06-19 20:48:58,952: INFO: btn btn-md btn-primary create-project-button form-control ng-scope clicked
+2022-06-19 20:48:58,953: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:48:58,969: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div/div[3]/button"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:48:59,473: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:48:59,583: INFO: Element by xpath /html/body/div[1]/div/div/div/div[3]/button found
+2022-06-19 20:48:59,612: INFO: Clicking on btn next-btn ng-binding btn-default
+2022-06-19 20:48:59,720: INFO: btn next-btn ng-binding btn-default clicked
+2022-06-19 20:48:59,721: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button[2]
+2022-06-19 20:48:59,735: INFO: Element by xpath /html/body/div[1]/div/div/div/div[3]/button[2] found
+2022-06-19 20:48:59,756: INFO: Clicking on btn next-btn ng-binding btn-default
+2022-06-19 20:48:59,828: INFO: btn next-btn ng-binding btn-default clicked
+2022-06-19 20:48:59,829: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button[2]
+2022-06-19 20:48:59,836: INFO: Element by xpath /html/body/div[1]/div/div/div/div[3]/button[2] found
+2022-06-19 20:48:59,857: INFO: Clicking on btn next-btn ng-binding btn-default
+2022-06-19 20:48:59,928: INFO: btn next-btn ng-binding btn-primary clicked
+2022-06-19 20:49:11,577: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button[2]
+2022-06-19 20:49:11,589: INFO: Element by xpath /html/body/div[1]/div/div/div/div[3]/button[2] found
+2022-06-19 20:49:11,615: INFO: Clicking on btn next-btn ng-binding btn-primary
+2022-06-19 20:49:26,199: INFO: Driver quitting
+2022-06-19 20:49:26,323: INFO: Driver quitted
+2022-06-19 20:49:26,323: INFO: *******************************************************
+2022-06-19 20:49:26,323: INFO: **************** TEST SCENARIO END ****************
+2022-06-19 20:49:26,324: INFO: *******************************************************
+2022-06-19 20:50:30,945: INFO: ====== WebDriver manager ======
+2022-06-19 20:50:31,033: INFO: Current google-chrome version is 102.0.5005
+2022-06-19 20:50:31,034: INFO: Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-19 20:50:31,319: INFO: Driver [/Users/davidlee/.wdm/drivers/chromedriver/mac64/102.0.5005.61/chromedriver] found in cache
+2022-06-19 20:50:33,412: INFO: *******************************************************
+2022-06-19 20:50:33,412: INFO: **************** TEST SCENARIO START ******************
+2022-06-19 20:50:33,413: INFO: *******************************************************
+2022-06-19 20:50:33,413: INFO: Navigating to https://app.fieldwire.com/#!/auth/register
+2022-06-19 20:50:35,845: INFO: https://app.fieldwire.com/#!/auth/register opened
+2022-06-19 20:50:37,847: INFO: Searching for element by xpath //*[@id='firstNameInput']
+2022-06-19 20:50:37,865: INFO: Element by xpath //*[@id='firstNameInput'] found
+2022-06-19 20:50:37,873: INFO: None value changed
+2022-06-19 20:50:37,937: INFO: Searching for element by xpath //*[@id='lastNameInput']
+2022-06-19 20:50:37,947: INFO: Element by xpath //*[@id='lastNameInput'] found
+2022-06-19 20:50:37,955: INFO: None value changed
+2022-06-19 20:50:38,000: INFO: Searching for element by xpath //*[@id='emailInput']
+2022-06-19 20:50:38,011: INFO: Element by xpath //*[@id='emailInput'] found
+2022-06-19 20:50:38,017: INFO: None value changed
+2022-06-19 20:50:38,087: INFO: Searching for element by xpath //*[@id='passwordInput']
+2022-06-19 20:50:38,097: INFO: Element by xpath //*[@id='passwordInput'] found
+2022-06-19 20:50:38,103: INFO: None value changed
+2022-06-19 20:50:38,153: INFO: Searching for element by xpath //*[@id='explicitAgreement']
+2022-06-19 20:50:38,163: INFO: Element by xpath //*[@id='explicitAgreement'] found
+2022-06-19 20:50:38,174: INFO: Clicking on explicit-input ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required
+2022-06-19 20:50:38,222: INFO: explicit-input ng-untouched ng-not-empty ng-dirty ng-valid-parse ng-valid ng-valid-required clicked
+2022-06-19 20:50:38,223: INFO: Searching for element by xpath //*[@id='login']/form/input
+2022-06-19 20:50:38,232: INFO: Element by xpath //*[@id='login']/form/input found
+2022-06-19 20:50:38,242: INFO: Clicking on btn btn-large btn-primary
+2022-06-19 20:50:38,295: INFO: btn btn-large btn-primary clicked
+2022-06-19 20:50:38,295: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 20:50:38,305: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='company']"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:50:38,806: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 20:50:38,832: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='company']"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:50:39,337: INFO: Searching for element by xpath //*[@id='company']
+2022-06-19 20:50:40,042: INFO: Element by xpath //*[@id='company'] found
+2022-06-19 20:50:40,064: INFO: None value changed
+2022-06-19 20:50:40,129: INFO: Searching for element by xpath //*[@id='companyType']
+2022-06-19 20:50:40,163: INFO: Element by xpath //*[@id='companyType'] found
+2022-06-19 20:50:40,187: INFO: Searching for element by css selector option[value ="OTHER"]
+2022-06-19 20:50:40,196: INFO: Element by css selector option[value ="OTHER"] found
+2022-06-19 20:50:40,214: INFO: Clicking on Other
+2022-06-19 20:50:40,258: INFO: Other clicked
+2022-06-19 20:50:40,259: INFO: Searching for element by xpath //*[@id='companySize']
+2022-06-19 20:50:40,281: INFO: Element by xpath //*[@id='companySize'] found
+2022-06-19 20:50:40,300: INFO: Searching for element by css selector option[value ="size_1_10"]
+2022-06-19 20:50:40,310: INFO: Element by css selector option[value ="size_1_10"] found
+2022-06-19 20:50:40,328: INFO: Clicking on 1 - 10
+2022-06-19 20:50:40,369: INFO: 1 - 10 clicked
+2022-06-19 20:50:40,370: INFO: Searching for element by xpath //*[@id='phone']
+2022-06-19 20:50:40,379: INFO: Element by xpath //*[@id='phone'] found
+2022-06-19 20:50:40,393: INFO: None value changed
+2022-06-19 20:50:40,453: INFO: Searching for element by xpath //*[@id='login']/form/input
+2022-06-19 20:50:40,460: INFO: Element by xpath //*[@id='login']/form/input found
+2022-06-19 20:50:40,474: INFO: Clicking on btn btn-large btn-primary
+2022-06-19 20:50:40,554: INFO: btn btn-large btn-primary clicked
+2022-06-19 20:50:40,560: INFO: Searching for element by css selector .new-project.pointer.project-box.relative-pos
+2022-06-19 20:50:40,574: INFO: Message: no such element: Unable to locate element: {"method":"css selector","selector":".new-project.pointer.project-box.relative-pos"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:50:41,079: INFO: Searching for element by css selector .new-project.pointer.project-box.relative-pos
+2022-06-19 20:50:41,089: INFO: Message: no such element: Unable to locate element: {"method":"css selector","selector":".new-project.pointer.project-box.relative-pos"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:50:41,590: INFO: Searching for element by css selector .new-project.pointer.project-box.relative-pos
+2022-06-19 20:50:41,597: INFO: Element by css selector .new-project.pointer.project-box.relative-pos found
+2022-06-19 20:50:41,620: INFO: Clicking on new-project pointer project-box relative-pos
+2022-06-19 20:50:41,728: INFO: new-project pointer project-box relative-pos clicked
+2022-06-19 20:50:41,728: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[2]/form/div[1]/input
+2022-06-19 20:50:41,762: INFO: Element by xpath /html/body/div[1]/div/div/div/div[2]/form/div[1]/input found
+2022-06-19 20:50:41,778: INFO: None value changed
+2022-06-19 20:50:41,975: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[2]/form/button
+2022-06-19 20:50:41,991: INFO: Element by xpath /html/body/div[1]/div/div/div/div[2]/form/button found
+2022-06-19 20:50:42,018: INFO: Clicking on btn btn-md btn-primary create-project-button form-control ng-scope
+2022-06-19 20:50:42,077: INFO: btn btn-md btn-primary create-project-button form-control ng-scope clicked
+2022-06-19 20:50:42,078: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:50:42,089: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div/div[3]/button"}
+  (Session info: chrome=102.0.5005.115)
+
+2022-06-19 20:50:42,591: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button
+2022-06-19 20:50:42,918: INFO: Element by xpath /html/body/div[1]/div/div/div/div[3]/button found
+2022-06-19 20:50:42,971: INFO: Clicking on btn next-btn ng-binding btn-default
+2022-06-19 20:50:43,071: INFO: btn next-btn ng-binding btn-default clicked
+2022-06-19 20:50:43,072: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button[2]
+2022-06-19 20:50:43,109: INFO: Element by xpath /html/body/div[1]/div/div/div/div[3]/button[2] found
+2022-06-19 20:50:43,142: INFO: Clicking on btn next-btn ng-binding btn-default
+2022-06-19 20:50:43,209: INFO: btn next-btn ng-binding btn-default clicked
+2022-06-19 20:50:43,209: INFO: Searching for element by xpath /html/body/div[1]/div/div/div/div[3]/button[2]
+2022-06-19 20:50:43,224: INFO: Element by xpath /html/body/div[1]/div/div/div/div[3]/button[2] found
+2022-06-19 20:50:43,244: INFO: Clicking on btn next-btn ng-binding btn-default
+2022-06-19 20:50:43,312: INFO: btn next-btn ng-binding btn-primary clicked
+2022-06-20 07:13:20,593: INFO: Driver quitting
+2022-06-20 07:13:20,597: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111ad6100>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/0e6209c6f3602439b9dd6355e0482e4d
+2022-06-20 07:13:20,598: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111e49940>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/0e6209c6f3602439b9dd6355e0482e4d
+2022-06-20 07:13:20,598: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111e491c0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/0e6209c6f3602439b9dd6355e0482e4d
+2022-06-20 07:13:20,605: INFO: Driver quitted
+2022-06-20 07:13:20,605: INFO: *******************************************************
+2022-06-20 07:13:20,606: INFO: **************** TEST SCENARIO END ****************
+2022-06-20 07:13:20,606: INFO: *******************************************************

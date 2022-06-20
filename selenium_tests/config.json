@@ -1,0 +1,8 @@
+{
+  "browser": "chrome",
+  "headless_mode": false,
+  "timeout": 10,
+  "base_url": "https://app.fieldwire.com/#!/",
+  "user_password": "dlee06991",
+  "user_id": "davidlee1996@gmail.com"
+}
